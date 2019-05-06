@@ -13,6 +13,363 @@
 		BAFFF17B22802F37008C95DC /* HelloWorld.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF17A22802F37008C95DC /* HelloWorld.swift */; };
 		BAFFF17C22802F37008C95DC /* HelloWorld.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF17A22802F37008C95DC /* HelloWorld.swift */; };
 		BAFFF17D22802F37008C95DC /* HelloWorld.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF17A22802F37008C95DC /* HelloWorld.swift */; };
+		BAFFF1FD228045C2008C95DC /* BlockCondition+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF186228045C2008C95DC /* BlockCondition+PlaygroundValue.swift */; };
+		BAFFF1FE228045C2008C95DC /* BlockCondition+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF186228045C2008C95DC /* BlockCondition+PlaygroundValue.swift */; };
+		BAFFF1FF228045C2008C95DC /* BlockCondition+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF186228045C2008C95DC /* BlockCondition+PlaygroundValue.swift */; };
+		BAFFF200228045C2008C95DC /* DisplayFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF187228045C2008C95DC /* DisplayFont.swift */; };
+		BAFFF201228045C2008C95DC /* DisplayFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF187228045C2008C95DC /* DisplayFont.swift */; };
+		BAFFF202228045C2008C95DC /* DisplayFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF187228045C2008C95DC /* DisplayFont.swift */; };
+		BAFFF203228045C2008C95DC /* InputDeviceCommand+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF188228045C2008C95DC /* InputDeviceCommand+PlaygroundValue.swift */; };
+		BAFFF204228045C2008C95DC /* InputDeviceCommand+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF188228045C2008C95DC /* InputDeviceCommand+PlaygroundValue.swift */; };
+		BAFFF205228045C2008C95DC /* InputDeviceCommand+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF188228045C2008C95DC /* InputDeviceCommand+PlaygroundValue.swift */; };
+		BAFFF206228045C2008C95DC /* DebugUIPort.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF189228045C2008C95DC /* DebugUIPort.swift */; };
+		BAFFF207228045C2008C95DC /* DebugUIPort.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF189228045C2008C95DC /* DebugUIPort.swift */; };
+		BAFFF208228045C2008C95DC /* DebugUIPort.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF189228045C2008C95DC /* DebugUIPort.swift */; };
+		BAFFF209228045C2008C95DC /* PlateGridViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18A228045C2008C95DC /* PlateGridViewCell.swift */; };
+		BAFFF20A228045C2008C95DC /* PlateGridViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18A228045C2008C95DC /* PlateGridViewCell.swift */; };
+		BAFFF20B228045C2008C95DC /* PlateGridViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18A228045C2008C95DC /* PlateGridViewCell.swift */; };
+		BAFFF20C228045C2008C95DC /* Random.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18B228045C2008C95DC /* Random.swift */; };
+		BAFFF20D228045C2008C95DC /* Random.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18B228045C2008C95DC /* Random.swift */; };
+		BAFFF20E228045C2008C95DC /* Random.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18B228045C2008C95DC /* Random.swift */; };
+		BAFFF20F228045C2008C95DC /* ParameterCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18C228045C2008C95DC /* ParameterCommand.swift */; };
+		BAFFF210228045C2008C95DC /* ParameterCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18C228045C2008C95DC /* ParameterCommand.swift */; };
+		BAFFF211228045C2008C95DC /* ParameterCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18C228045C2008C95DC /* ParameterCommand.swift */; };
+		BAFFF212228045C2008C95DC /* PlateConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18D228045C2008C95DC /* PlateConnection.swift */; };
+		BAFFF213228045C2008C95DC /* PlateConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18D228045C2008C95DC /* PlateConnection.swift */; };
+		BAFFF214228045C2008C95DC /* PlateConnection.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18D228045C2008C95DC /* PlateConnection.swift */; };
+		BAFFF215228045C2008C95DC /* PlateGridViewLayout+SingleHorizontalPairLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18E228045C2008C95DC /* PlateGridViewLayout+SingleHorizontalPairLayout.swift */; };
+		BAFFF216228045C2008C95DC /* PlateGridViewLayout+SingleHorizontalPairLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18E228045C2008C95DC /* PlateGridViewLayout+SingleHorizontalPairLayout.swift */; };
+		BAFFF217228045C2008C95DC /* PlateGridViewLayout+SingleHorizontalPairLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18E228045C2008C95DC /* PlateGridViewLayout+SingleHorizontalPairLayout.swift */; };
+		BAFFF218228045C2008C95DC /* ReplyOperation+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18F228045C2008C95DC /* ReplyOperation+PlaygroundValue.swift */; };
+		BAFFF219228045C2008C95DC /* ReplyOperation+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18F228045C2008C95DC /* ReplyOperation+PlaygroundValue.swift */; };
+		BAFFF21A228045C2008C95DC /* ReplyOperation+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF18F228045C2008C95DC /* ReplyOperation+PlaygroundValue.swift */; };
+		BAFFF21B228045C2008C95DC /* LiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF190228045C2008C95DC /* LiveViewController.swift */; };
+		BAFFF21C228045C2008C95DC /* LiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF190228045C2008C95DC /* LiveViewController.swift */; };
+		BAFFF21D228045C2008C95DC /* LiveViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF190228045C2008C95DC /* LiveViewController.swift */; };
+		BAFFF21E228045C2008C95DC /* LiveViewMessageKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF191228045C2008C95DC /* LiveViewMessageKey.swift */; };
+		BAFFF21F228045C2008C95DC /* LiveViewMessageKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF191228045C2008C95DC /* LiveViewMessageKey.swift */; };
+		BAFFF220228045C2008C95DC /* LiveViewMessageKey.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF191228045C2008C95DC /* LiveViewMessageKey.swift */; };
+		BAFFF221228045C2008C95DC /* LiveViewController+MessageHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF192228045C2008C95DC /* LiveViewController+MessageHandler.swift */; };
+		BAFFF222228045C2008C95DC /* LiveViewController+MessageHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF192228045C2008C95DC /* LiveViewController+MessageHandler.swift */; };
+		BAFFF223228045C2008C95DC /* LiveViewController+MessageHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF192228045C2008C95DC /* LiveViewController+MessageHandler.swift */; };
+		BAFFF224228045C2008C95DC /* MockLiveViewProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF193228045C2008C95DC /* MockLiveViewProxy.swift */; };
+		BAFFF225228045C2008C95DC /* MockLiveViewProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF193228045C2008C95DC /* MockLiveViewProxy.swift */; };
+		BAFFF226228045C2008C95DC /* MockLiveViewProxy.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF193228045C2008C95DC /* MockLiveViewProxy.swift */; };
+		BAFFF227228045C2008C95DC /* Logging.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF194228045C2008C95DC /* Logging.swift */; };
+		BAFFF228228045C2008C95DC /* Logging.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF194228045C2008C95DC /* Logging.swift */; };
+		BAFFF229228045C2008C95DC /* Logging.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF194228045C2008C95DC /* Logging.swift */; };
+		BAFFF22A228045C2008C95DC /* RobotWaitForMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF195228045C2008C95DC /* RobotWaitForMethods.swift */; };
+		BAFFF22B228045C2008C95DC /* RobotWaitForMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF195228045C2008C95DC /* RobotWaitForMethods.swift */; };
+		BAFFF22C228045C2008C95DC /* RobotWaitForMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF195228045C2008C95DC /* RobotWaitForMethods.swift */; };
+		BAFFF22D228045C2008C95DC /* ReplyOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF196228045C2008C95DC /* ReplyOperation.swift */; };
+		BAFFF22E228045C2008C95DC /* ReplyOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF196228045C2008C95DC /* ReplyOperation.swift */; };
+		BAFFF22F228045C2008C95DC /* ReplyOperation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF196228045C2008C95DC /* ReplyOperation.swift */; };
+		BAFFF230228045C2008C95DC /* LiveViewController+SupportingContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF197228045C2008C95DC /* LiveViewController+SupportingContent.swift */; };
+		BAFFF231228045C2008C95DC /* LiveViewController+SupportingContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF197228045C2008C95DC /* LiveViewController+SupportingContent.swift */; };
+		BAFFF232228045C2008C95DC /* LiveViewController+SupportingContent.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF197228045C2008C95DC /* LiveViewController+SupportingContent.swift */; };
+		BAFFF233228045C2008C95DC /* PlatesViewController+DataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF198228045C2008C95DC /* PlatesViewController+DataSource.swift */; };
+		BAFFF234228045C2008C95DC /* PlatesViewController+DataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF198228045C2008C95DC /* PlatesViewController+DataSource.swift */; };
+		BAFFF235228045C2008C95DC /* PlatesViewController+DataSource.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF198228045C2008C95DC /* PlatesViewController+DataSource.swift */; };
+		BAFFF236228045C2008C95DC /* Port.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF199228045C2008C95DC /* Port.swift */; };
+		BAFFF237228045C2008C95DC /* Port.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF199228045C2008C95DC /* Port.swift */; };
+		BAFFF238228045C2008C95DC /* Port.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF199228045C2008C95DC /* Port.swift */; };
+		BAFFF239228045C2008C95DC /* SoundFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19A228045C2008C95DC /* SoundFile.swift */; };
+		BAFFF23A228045C2008C95DC /* SoundFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19A228045C2008C95DC /* SoundFile.swift */; };
+		BAFFF23B228045C2008C95DC /* SoundFile.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19A228045C2008C95DC /* SoundFile.swift */; };
+		BAFFF23C228045C2008C95DC /* BlockCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19B228045C2008C95DC /* BlockCondition.swift */; };
+		BAFFF23D228045C2008C95DC /* BlockCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19B228045C2008C95DC /* BlockCondition.swift */; };
+		BAFFF23E228045C2008C95DC /* BlockCondition.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19B228045C2008C95DC /* BlockCondition.swift */; };
+		BAFFF23F228045C2008C95DC /* DrawCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19C228045C2008C95DC /* DrawCommand.swift */; };
+		BAFFF240228045C2008C95DC /* DrawCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19C228045C2008C95DC /* DrawCommand.swift */; };
+		BAFFF241228045C2008C95DC /* DrawCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19C228045C2008C95DC /* DrawCommand.swift */; };
+		BAFFF242228045C2008C95DC /* PlateGridViewLayout+EmptyLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19D228045C2008C95DC /* PlateGridViewLayout+EmptyLayout.swift */; };
+		BAFFF243228045C2008C95DC /* PlateGridViewLayout+EmptyLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19D228045C2008C95DC /* PlateGridViewLayout+EmptyLayout.swift */; };
+		BAFFF244228045C2008C95DC /* PlateGridViewLayout+EmptyLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19D228045C2008C95DC /* PlateGridViewLayout+EmptyLayout.swift */; };
+		BAFFF245228045C2008C95DC /* UICollectionViewLayoutAttributes+BrickGeometry.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19E228045C2008C95DC /* UICollectionViewLayoutAttributes+BrickGeometry.swift */; };
+		BAFFF246228045C2008C95DC /* UICollectionViewLayoutAttributes+BrickGeometry.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19E228045C2008C95DC /* UICollectionViewLayoutAttributes+BrickGeometry.swift */; };
+		BAFFF247228045C2008C95DC /* UICollectionViewLayoutAttributes+BrickGeometry.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19E228045C2008C95DC /* UICollectionViewLayoutAttributes+BrickGeometry.swift */; };
+		BAFFF248228045C2008C95DC /* ConnectionDataLogger.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19F228045C2008C95DC /* ConnectionDataLogger.swift */; };
+		BAFFF249228045C2008C95DC /* ConnectionDataLogger.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19F228045C2008C95DC /* ConnectionDataLogger.swift */; };
+		BAFFF24A228045C2008C95DC /* ConnectionDataLogger.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF19F228045C2008C95DC /* ConnectionDataLogger.swift */; };
+		BAFFF24B228045C2008C95DC /* Icon.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A0228045C2008C95DC /* Icon.swift */; };
+		BAFFF24C228045C2008C95DC /* Icon.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A0228045C2008C95DC /* Icon.swift */; };
+		BAFFF24D228045C2008C95DC /* Icon.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A0228045C2008C95DC /* Icon.swift */; };
+		BAFFF24E228045C2008C95DC /* WriteCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A1228045C2008C95DC /* WriteCommand.swift */; };
+		BAFFF24F228045C2008C95DC /* WriteCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A1228045C2008C95DC /* WriteCommand.swift */; };
+		BAFFF250228045C2008C95DC /* WriteCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A1228045C2008C95DC /* WriteCommand.swift */; };
+		BAFFF251228045C2008C95DC /* PortType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A2228045C2008C95DC /* PortType.swift */; };
+		BAFFF252228045C2008C95DC /* PortType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A2228045C2008C95DC /* PortType.swift */; };
+		BAFFF253228045C2008C95DC /* PortType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A2228045C2008C95DC /* PortType.swift */; };
+		BAFFF254228045C2008C95DC /* PortMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A3228045C2008C95DC /* PortMode.swift */; };
+		BAFFF255228045C2008C95DC /* PortMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A3228045C2008C95DC /* PortMode.swift */; };
+		BAFFF256228045C2008C95DC /* PortMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A3228045C2008C95DC /* PortMode.swift */; };
+		BAFFF257228045C2008C95DC /* OutputPort.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A4228045C2008C95DC /* OutputPort.swift */; };
+		BAFFF258228045C2008C95DC /* OutputPort.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A4228045C2008C95DC /* OutputPort.swift */; };
+		BAFFF259228045C2008C95DC /* OutputPort.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A4228045C2008C95DC /* OutputPort.swift */; };
+		BAFFF25A228045C2008C95DC /* ReplyOperation+Parameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A5228045C2008C95DC /* ReplyOperation+Parameters.swift */; };
+		BAFFF25B228045C2008C95DC /* ReplyOperation+Parameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A5228045C2008C95DC /* ReplyOperation+Parameters.swift */; };
+		BAFFF25C228045C2008C95DC /* ReplyOperation+Parameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A5228045C2008C95DC /* ReplyOperation+Parameters.swift */; };
+		BAFFF25D228045C2008C95DC /* PortValueLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A6228045C2008C95DC /* PortValueLabel.swift */; };
+		BAFFF25E228045C2008C95DC /* PortValueLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A6228045C2008C95DC /* PortValueLabel.swift */; };
+		BAFFF25F228045C2008C95DC /* PortValueLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A6228045C2008C95DC /* PortValueLabel.swift */; };
+		BAFFF260228045C2008C95DC /* ImageName.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A7228045C2008C95DC /* ImageName.swift */; };
+		BAFFF261228045C2008C95DC /* ImageName.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A7228045C2008C95DC /* ImageName.swift */; };
+		BAFFF262228045C2008C95DC /* ImageName.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A7228045C2008C95DC /* ImageName.swift */; };
+		BAFFF263228045C2008C95DC /* PortData.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A8228045C2008C95DC /* PortData.swift */; };
+		BAFFF264228045C2008C95DC /* PortData.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A8228045C2008C95DC /* PortData.swift */; };
+		BAFFF265228045C2008C95DC /* PortData.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A8228045C2008C95DC /* PortData.swift */; };
+		BAFFF266228045C2008C95DC /* BytecodeEncodable+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A9228045C2008C95DC /* BytecodeEncodable+PlaygroundValue.swift */; };
+		BAFFF267228045C2008C95DC /* BytecodeEncodable+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A9228045C2008C95DC /* BytecodeEncodable+PlaygroundValue.swift */; };
+		BAFFF268228045C2008C95DC /* BytecodeEncodable+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1A9228045C2008C95DC /* BytecodeEncodable+PlaygroundValue.swift */; };
+		BAFFF269228045C2008C95DC /* RobotOutputMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AA228045C2008C95DC /* RobotOutputMethods.swift */; };
+		BAFFF26A228045C2008C95DC /* RobotOutputMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AA228045C2008C95DC /* RobotOutputMethods.swift */; };
+		BAFFF26B228045C2008C95DC /* RobotOutputMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AA228045C2008C95DC /* RobotOutputMethods.swift */; };
+		BAFFF26C228045C2008C95DC /* DebugUIPortView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AB228045C2008C95DC /* DebugUIPortView.swift */; };
+		BAFFF26D228045C2008C95DC /* DebugUIPortView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AB228045C2008C95DC /* DebugUIPortView.swift */; };
+		BAFFF26E228045C2008C95DC /* DebugUIPortView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AB228045C2008C95DC /* DebugUIPortView.swift */; };
+		BAFFF26F228045C2008C95DC /* PlateGridViewLayout+SingleLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AC228045C2008C95DC /* PlateGridViewLayout+SingleLayout.swift */; };
+		BAFFF270228045C2008C95DC /* PlateGridViewLayout+SingleLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AC228045C2008C95DC /* PlateGridViewLayout+SingleLayout.swift */; };
+		BAFFF271228045C2008C95DC /* PlateGridViewLayout+SingleLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AC228045C2008C95DC /* PlateGridViewLayout+SingleLayout.swift */; };
+		BAFFF272228045C2008C95DC /* IconType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AD228045C2008C95DC /* IconType.swift */; };
+		BAFFF273228045C2008C95DC /* IconType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AD228045C2008C95DC /* IconType.swift */; };
+		BAFFF274228045C2008C95DC /* IconType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AD228045C2008C95DC /* IconType.swift */; };
+		BAFFF275228045C2008C95DC /* WriteCommand+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AE228045C2008C95DC /* WriteCommand+PlaygroundValue.swift */; };
+		BAFFF276228045C2008C95DC /* WriteCommand+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AE228045C2008C95DC /* WriteCommand+PlaygroundValue.swift */; };
+		BAFFF277228045C2008C95DC /* WriteCommand+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AE228045C2008C95DC /* WriteCommand+PlaygroundValue.swift */; };
+		BAFFF278228045C2008C95DC /* GridLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AF228045C2008C95DC /* GridLine.swift */; };
+		BAFFF279228045C2008C95DC /* GridLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AF228045C2008C95DC /* GridLine.swift */; };
+		BAFFF27A228045C2008C95DC /* GridLine.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1AF228045C2008C95DC /* GridLine.swift */; };
+		BAFFF27B228045C2008C95DC /* PlatesViewController+BrickActionsViewControllerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B0228045C2008C95DC /* PlatesViewController+BrickActionsViewControllerDelegate.swift */; };
+		BAFFF27C228045C2008C95DC /* PlatesViewController+BrickActionsViewControllerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B0228045C2008C95DC /* PlatesViewController+BrickActionsViewControllerDelegate.swift */; };
+		BAFFF27D228045C2008C95DC /* PlatesViewController+BrickActionsViewControllerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B0228045C2008C95DC /* PlatesViewController+BrickActionsViewControllerDelegate.swift */; };
+		BAFFF27E228045C2008C95DC /* LiveViewController+DebugUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B1228045C2008C95DC /* LiveViewController+DebugUI.swift */; };
+		BAFFF27F228045C2008C95DC /* LiveViewController+DebugUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B1228045C2008C95DC /* LiveViewController+DebugUI.swift */; };
+		BAFFF280228045C2008C95DC /* LiveViewController+DebugUI.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B1228045C2008C95DC /* LiveViewController+DebugUI.swift */; };
+		BAFFF281228045C2008C95DC /* PlateTableViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B2228045C2008C95DC /* PlateTableViewLayout.swift */; };
+		BAFFF282228045C2008C95DC /* PlateTableViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B2228045C2008C95DC /* PlateTableViewLayout.swift */; };
+		BAFFF283228045C2008C95DC /* PlateTableViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B2228045C2008C95DC /* PlateTableViewLayout.swift */; };
+		BAFFF284228045C2008C95DC /* PlatesViewController+CommunicationLayerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B3228045C2008C95DC /* PlatesViewController+CommunicationLayerDelegate.swift */; };
+		BAFFF285228045C2008C95DC /* PlatesViewController+CommunicationLayerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B3228045C2008C95DC /* PlatesViewController+CommunicationLayerDelegate.swift */; };
+		BAFFF286228045C2008C95DC /* PlatesViewController+CommunicationLayerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B3228045C2008C95DC /* PlatesViewController+CommunicationLayerDelegate.swift */; };
+		BAFFF287228045C2008C95DC /* BrickActionsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B4228045C2008C95DC /* BrickActionsCell.swift */; };
+		BAFFF288228045C2008C95DC /* BrickActionsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B4228045C2008C95DC /* BrickActionsCell.swift */; };
+		BAFFF289228045C2008C95DC /* BrickActionsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B4228045C2008C95DC /* BrickActionsCell.swift */; };
+		BAFFF28A228045C2008C95DC /* EV3Communicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B5228045C2008C95DC /* EV3Communicator.swift */; };
+		BAFFF28B228045C2008C95DC /* EV3Communicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B5228045C2008C95DC /* EV3Communicator.swift */; };
+		BAFFF28C228045C2008C95DC /* EV3Communicator.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B5228045C2008C95DC /* EV3Communicator.swift */; };
+		BAFFF28D228045C2008C95DC /* PlateTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B6228045C2008C95DC /* PlateTableViewCell.swift */; };
+		BAFFF28E228045C2008C95DC /* PlateTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B6228045C2008C95DC /* PlateTableViewCell.swift */; };
+		BAFFF28F228045C2008C95DC /* PlateTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B6228045C2008C95DC /* PlateTableViewCell.swift */; };
+		BAFFF290228045C2008C95DC /* PlatesViewController+PortModeSwitcherViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B7228045C2008C95DC /* PlatesViewController+PortModeSwitcherViewDelegate.swift */; };
+		BAFFF291228045C2008C95DC /* PlatesViewController+PortModeSwitcherViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B7228045C2008C95DC /* PlatesViewController+PortModeSwitcherViewDelegate.swift */; };
+		BAFFF292228045C2008C95DC /* PlatesViewController+PortModeSwitcherViewDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B7228045C2008C95DC /* PlatesViewController+PortModeSwitcherViewDelegate.swift */; };
+		BAFFF293228045C2008C95DC /* PlaygroundValueAccessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B8228045C2008C95DC /* PlaygroundValueAccessor.swift */; };
+		BAFFF294228045C2008C95DC /* PlaygroundValueAccessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B8228045C2008C95DC /* PlaygroundValueAccessor.swift */; };
+		BAFFF295228045C2008C95DC /* PlaygroundValueAccessor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B8228045C2008C95DC /* PlaygroundValueAccessor.swift */; };
+		BAFFF296228045C2008C95DC /* PortsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B9228045C2008C95DC /* PortsView.swift */; };
+		BAFFF297228045C2008C95DC /* PortsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B9228045C2008C95DC /* PortsView.swift */; };
+		BAFFF298228045C2008C95DC /* PortsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1B9228045C2008C95DC /* PortsView.swift */; };
+		BAFFF299228045C2008C95DC /* PlateGridViewLayout+DefaultLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BA228045C2008C95DC /* PlateGridViewLayout+DefaultLayout.swift */; };
+		BAFFF29A228045C2008C95DC /* PlateGridViewLayout+DefaultLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BA228045C2008C95DC /* PlateGridViewLayout+DefaultLayout.swift */; };
+		BAFFF29B228045C2008C95DC /* PlateGridViewLayout+DefaultLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BA228045C2008C95DC /* PlateGridViewLayout+DefaultLayout.swift */; };
+		BAFFF29C228045C2008C95DC /* Operation+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BB228045C2008C95DC /* Operation+PlaygroundValue.swift */; };
+		BAFFF29D228045C2008C95DC /* Operation+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BB228045C2008C95DC /* Operation+PlaygroundValue.swift */; };
+		BAFFF29E228045C2008C95DC /* Operation+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BB228045C2008C95DC /* Operation+PlaygroundValue.swift */; };
+		BAFFF29F228045C2008C95DC /* PlatesViewController+PlaygroundLiveViewMessageHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BC228045C2008C95DC /* PlatesViewController+PlaygroundLiveViewMessageHandler.swift */; };
+		BAFFF2A0228045C2008C95DC /* PlatesViewController+PlaygroundLiveViewMessageHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BC228045C2008C95DC /* PlatesViewController+PlaygroundLiveViewMessageHandler.swift */; };
+		BAFFF2A1228045C2008C95DC /* PlatesViewController+PlaygroundLiveViewMessageHandler.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BC228045C2008C95DC /* PlatesViewController+PlaygroundLiveViewMessageHandler.swift */; };
+		BAFFF2A2228045C2008C95DC /* SoundCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BD228045C2008C95DC /* SoundCommand.swift */; };
+		BAFFF2A3228045C2008C95DC /* SoundCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BD228045C2008C95DC /* SoundCommand.swift */; };
+		BAFFF2A4228045C2008C95DC /* SoundCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BD228045C2008C95DC /* SoundCommand.swift */; };
+		BAFFF2A5228045C2008C95DC /* UserCodeState.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BE228045C2008C95DC /* UserCodeState.swift */; };
+		BAFFF2A6228045C2008C95DC /* UserCodeState.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BE228045C2008C95DC /* UserCodeState.swift */; };
+		BAFFF2A7228045C2008C95DC /* UserCodeState.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BE228045C2008C95DC /* UserCodeState.swift */; };
+		BAFFF2A8228045C2008C95DC /* PortView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BF228045C2008C95DC /* PortView.swift */; };
+		BAFFF2A9228045C2008C95DC /* PortView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BF228045C2008C95DC /* PortView.swift */; };
+		BAFFF2AA228045C2008C95DC /* PortView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1BF228045C2008C95DC /* PortView.swift */; };
+		BAFFF2AB228045C2008C95DC /* ConnectionOverviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C0228045C2008C95DC /* ConnectionOverviewViewController.swift */; };
+		BAFFF2AC228045C2008C95DC /* ConnectionOverviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C0228045C2008C95DC /* ConnectionOverviewViewController.swift */; };
+		BAFFF2AD228045C2008C95DC /* ConnectionOverviewViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C0228045C2008C95DC /* ConnectionOverviewViewController.swift */; };
+		BAFFF2AE228045C2008C95DC /* DebugUIHardwareViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C1228045C2008C95DC /* DebugUIHardwareViewCell.swift */; };
+		BAFFF2AF228045C2008C95DC /* DebugUIHardwareViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C1228045C2008C95DC /* DebugUIHardwareViewCell.swift */; };
+		BAFFF2B0228045C2008C95DC /* DebugUIHardwareViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C1228045C2008C95DC /* DebugUIHardwareViewCell.swift */; };
+		BAFFF2B1228045C2008C95DC /* Command.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C2228045C2008C95DC /* Command.swift */; };
+		BAFFF2B2228045C2008C95DC /* Command.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C2228045C2008C95DC /* Command.swift */; };
+		BAFFF2B3228045C2008C95DC /* Command.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C2228045C2008C95DC /* Command.swift */; };
+		BAFFF2B4228045C2008C95DC /* ConnectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C3228045C2008C95DC /* ConnectionViewController.swift */; };
+		BAFFF2B5228045C2008C95DC /* ConnectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C3228045C2008C95DC /* ConnectionViewController.swift */; };
+		BAFFF2B6228045C2008C95DC /* ConnectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C3228045C2008C95DC /* ConnectionViewController.swift */; };
+		BAFFF2B7228045C2008C95DC /* PlaygroundPageSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C4228045C2008C95DC /* PlaygroundPageSupport.swift */; };
+		BAFFF2B8228045C2008C95DC /* PlaygroundPageSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C4228045C2008C95DC /* PlaygroundPageSupport.swift */; };
+		BAFFF2B9228045C2008C95DC /* PlaygroundPageSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C4228045C2008C95DC /* PlaygroundPageSupport.swift */; };
+		BAFFF2BA228045C2008C95DC /* CommandManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C5228045C2008C95DC /* CommandManager.swift */; };
+		BAFFF2BB228045C2008C95DC /* CommandManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C5228045C2008C95DC /* CommandManager.swift */; };
+		BAFFF2BC228045C2008C95DC /* CommandManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C5228045C2008C95DC /* CommandManager.swift */; };
+		BAFFF2BD228045C2008C95DC /* PixelSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C6228045C2008C95DC /* PixelSize.swift */; };
+		BAFFF2BE228045C2008C95DC /* PixelSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C6228045C2008C95DC /* PixelSize.swift */; };
+		BAFFF2BF228045C2008C95DC /* PixelSize.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C6228045C2008C95DC /* PixelSize.swift */; };
+		BAFFF2C0228045C2008C95DC /* PlatesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C7228045C2008C95DC /* PlatesViewController.swift */; };
+		BAFFF2C1228045C2008C95DC /* PlatesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C7228045C2008C95DC /* PlatesViewController.swift */; };
+		BAFFF2C2228045C2008C95DC /* PlatesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C7228045C2008C95DC /* PlatesViewController.swift */; };
+		BAFFF2C3228045C2008C95DC /* ConnectionActionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C8228045C2008C95DC /* ConnectionActionsViewController.swift */; };
+		BAFFF2C4228045C2008C95DC /* ConnectionActionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C8228045C2008C95DC /* ConnectionActionsViewController.swift */; };
+		BAFFF2C5228045C2008C95DC /* ConnectionActionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C8228045C2008C95DC /* ConnectionActionsViewController.swift */; };
+		BAFFF2C6228045C2008C95DC /* PlateCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C9228045C2008C95DC /* PlateCollectionViewLayout.swift */; };
+		BAFFF2C7228045C2008C95DC /* PlateCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C9228045C2008C95DC /* PlateCollectionViewLayout.swift */; };
+		BAFFF2C8228045C2008C95DC /* PlateCollectionViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1C9228045C2008C95DC /* PlateCollectionViewLayout.swift */; };
+		BAFFF2C9228045C2008C95DC /* SoundCommand+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CA228045C2008C95DC /* SoundCommand+PlaygroundValue.swift */; };
+		BAFFF2CA228045C2008C95DC /* SoundCommand+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CA228045C2008C95DC /* SoundCommand+PlaygroundValue.swift */; };
+		BAFFF2CB228045C2008C95DC /* SoundCommand+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CA228045C2008C95DC /* SoundCommand+PlaygroundValue.swift */; };
+		BAFFF2CC228045C2008C95DC /* StuddedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CB228045C2008C95DC /* StuddedView.swift */; };
+		BAFFF2CD228045C2008C95DC /* StuddedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CB228045C2008C95DC /* StuddedView.swift */; };
+		BAFFF2CE228045C2008C95DC /* StuddedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CB228045C2008C95DC /* StuddedView.swift */; };
+		BAFFF2CF228045C2008C95DC /* DebugUIPart.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CC228045C2008C95DC /* DebugUIPart.swift */; };
+		BAFFF2D0228045C2008C95DC /* DebugUIPart.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CC228045C2008C95DC /* DebugUIPart.swift */; };
+		BAFFF2D1228045C2008C95DC /* DebugUIPart.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CC228045C2008C95DC /* DebugUIPart.swift */; };
+		BAFFF2D2228045C2008C95DC /* PlateGridViewLayout+GridLines.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CD228045C2008C95DC /* PlateGridViewLayout+GridLines.swift */; };
+		BAFFF2D3228045C2008C95DC /* PlateGridViewLayout+GridLines.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CD228045C2008C95DC /* PlateGridViewLayout+GridLines.swift */; };
+		BAFFF2D4228045C2008C95DC /* PlateGridViewLayout+GridLines.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CD228045C2008C95DC /* PlateGridViewLayout+GridLines.swift */; };
+		BAFFF2D5228045C2008C95DC /* Robot+ProxyDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CE228045C2008C95DC /* Robot+ProxyDelegate.swift */; };
+		BAFFF2D6228045C2008C95DC /* Robot+ProxyDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CE228045C2008C95DC /* Robot+ProxyDelegate.swift */; };
+		BAFFF2D7228045C2008C95DC /* Robot+ProxyDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CE228045C2008C95DC /* Robot+ProxyDelegate.swift */; };
+		BAFFF2D8228045C2008C95DC /* UIColor+Lego.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CF228045C2008C95DC /* UIColor+Lego.swift */; };
+		BAFFF2D9228045C2008C95DC /* UIColor+Lego.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CF228045C2008C95DC /* UIColor+Lego.swift */; };
+		BAFFF2DA228045C2008C95DC /* UIColor+Lego.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1CF228045C2008C95DC /* UIColor+Lego.swift */; };
+		BAFFF2DB228045C2008C95DC /* PlateCollectionViewMask.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D0228045C2008C95DC /* PlateCollectionViewMask.swift */; };
+		BAFFF2DC228045C2008C95DC /* PlateCollectionViewMask.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D0228045C2008C95DC /* PlateCollectionViewMask.swift */; };
+		BAFFF2DD228045C2008C95DC /* PlateCollectionViewMask.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D0228045C2008C95DC /* PlateCollectionViewMask.swift */; };
+		BAFFF2DE228045C2008C95DC /* RobotError.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D1228045C2008C95DC /* RobotError.swift */; };
+		BAFFF2DF228045C2008C95DC /* RobotError.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D1228045C2008C95DC /* RobotError.swift */; };
+		BAFFF2E0228045C2008C95DC /* RobotError.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D1228045C2008C95DC /* RobotError.swift */; };
+		BAFFF2E1228045C2008C95DC /* PlaygroundKeyValueStoreExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D2228045C2008C95DC /* PlaygroundKeyValueStoreExtension.swift */; };
+		BAFFF2E2228045C2008C95DC /* PlaygroundKeyValueStoreExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D2228045C2008C95DC /* PlaygroundKeyValueStoreExtension.swift */; };
+		BAFFF2E3228045C2008C95DC /* PlaygroundKeyValueStoreExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D2228045C2008C95DC /* PlaygroundKeyValueStoreExtension.swift */; };
+		BAFFF2E4228045C2008C95DC /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D3228045C2008C95DC /* Note.swift */; };
+		BAFFF2E5228045C2008C95DC /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D3228045C2008C95DC /* Note.swift */; };
+		BAFFF2E6228045C2008C95DC /* Note.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D3228045C2008C95DC /* Note.swift */; };
+		BAFFF2E7228045C2008C95DC /* EV3CommunicationLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D4228045C2008C95DC /* EV3CommunicationLayer.swift */; };
+		BAFFF2E8228045C2008C95DC /* EV3CommunicationLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D4228045C2008C95DC /* EV3CommunicationLayer.swift */; };
+		BAFFF2E9228045C2008C95DC /* EV3CommunicationLayer.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D4228045C2008C95DC /* EV3CommunicationLayer.swift */; };
+		BAFFF2EA228045C2008C95DC /* RobotInputMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D5228045C2008C95DC /* RobotInputMethods.swift */; };
+		BAFFF2EB228045C2008C95DC /* RobotInputMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D5228045C2008C95DC /* RobotInputMethods.swift */; };
+		BAFFF2EC228045C2008C95DC /* RobotInputMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D5228045C2008C95DC /* RobotInputMethods.swift */; };
+		BAFFF2ED228045C2008C95DC /* PixelLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D6228045C2008C95DC /* PixelLocation.swift */; };
+		BAFFF2EE228045C2008C95DC /* PixelLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D6228045C2008C95DC /* PixelLocation.swift */; };
+		BAFFF2EF228045C2008C95DC /* PixelLocation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D6228045C2008C95DC /* PixelLocation.swift */; };
+		BAFFF2F0228045C2008C95DC /* MotorType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D7228045C2008C95DC /* MotorType.swift */; };
+		BAFFF2F1228045C2008C95DC /* MotorType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D7228045C2008C95DC /* MotorType.swift */; };
+		BAFFF2F2228045C2008C95DC /* MotorType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D7228045C2008C95DC /* MotorType.swift */; };
+		BAFFF2F3228045C2008C95DC /* DisplayColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D8228045C2008C95DC /* DisplayColor.swift */; };
+		BAFFF2F4228045C2008C95DC /* DisplayColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D8228045C2008C95DC /* DisplayColor.swift */; };
+		BAFFF2F5228045C2008C95DC /* DisplayColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D8228045C2008C95DC /* DisplayColor.swift */; };
+		BAFFF2F6228045C2008C95DC /* PlateTableViewCellGraphLinesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D9228045C2008C95DC /* PlateTableViewCellGraphLinesView.swift */; };
+		BAFFF2F7228045C2008C95DC /* PlateTableViewCellGraphLinesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D9228045C2008C95DC /* PlateTableViewCellGraphLinesView.swift */; };
+		BAFFF2F8228045C2008C95DC /* PlateTableViewCellGraphLinesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1D9228045C2008C95DC /* PlateTableViewCellGraphLinesView.swift */; };
+		BAFFF2F9228045C2008C95DC /* PortModeSwitcherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DA228045C2008C95DC /* PortModeSwitcherView.swift */; };
+		BAFFF2FA228045C2008C95DC /* PortModeSwitcherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DA228045C2008C95DC /* PortModeSwitcherView.swift */; };
+		BAFFF2FB228045C2008C95DC /* PortModeSwitcherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DA228045C2008C95DC /* PortModeSwitcherView.swift */; };
+		BAFFF2FC228045C2008C95DC /* BytecodeEncodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DB228045C2008C95DC /* BytecodeEncodable.swift */; };
+		BAFFF2FD228045C2008C95DC /* BytecodeEncodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DB228045C2008C95DC /* BytecodeEncodable.swift */; };
+		BAFFF2FE228045C2008C95DC /* BytecodeEncodable.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DB228045C2008C95DC /* BytecodeEncodable.swift */; };
+		BAFFF2FF228045C2008C95DC /* GridLineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DC228045C2008C95DC /* GridLineView.swift */; };
+		BAFFF300228045C2008C95DC /* GridLineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DC228045C2008C95DC /* GridLineView.swift */; };
+		BAFFF301228045C2008C95DC /* GridLineView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DC228045C2008C95DC /* GridLineView.swift */; };
+		BAFFF302228045C2008C95DC /* ColorValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DD228045C2008C95DC /* ColorValue.swift */; };
+		BAFFF303228045C2008C95DC /* ColorValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DD228045C2008C95DC /* ColorValue.swift */; };
+		BAFFF304228045C2008C95DC /* ColorValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DD228045C2008C95DC /* ColorValue.swift */; };
+		BAFFF305228045C2008C95DC /* ConnectionInstructionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DE228045C2008C95DC /* ConnectionInstructionsViewController.swift */; };
+		BAFFF306228045C2008C95DC /* ConnectionInstructionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DE228045C2008C95DC /* ConnectionInstructionsViewController.swift */; };
+		BAFFF307228045C2008C95DC /* ConnectionInstructionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DE228045C2008C95DC /* ConnectionInstructionsViewController.swift */; };
+		BAFFF308228045C2008C95DC /* Comparable+clamped.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DF228045C2008C95DC /* Comparable+clamped.swift */; };
+		BAFFF309228045C2008C95DC /* Comparable+clamped.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DF228045C2008C95DC /* Comparable+clamped.swift */; };
+		BAFFF30A228045C2008C95DC /* Comparable+clamped.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1DF228045C2008C95DC /* Comparable+clamped.swift */; };
+		BAFFF30B228045C2008C95DC /* VariableWidthData.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E0228045C2008C95DC /* VariableWidthData.swift */; };
+		BAFFF30C228045C2008C95DC /* VariableWidthData.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E0228045C2008C95DC /* VariableWidthData.swift */; };
+		BAFFF30D228045C2008C95DC /* VariableWidthData.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E0228045C2008C95DC /* VariableWidthData.swift */; };
+		BAFFF30E228045C2008C95DC /* BrickActionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E1228045C2008C95DC /* BrickActionsViewController.swift */; };
+		BAFFF30F228045C2008C95DC /* BrickActionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E1228045C2008C95DC /* BrickActionsViewController.swift */; };
+		BAFFF310228045C2008C95DC /* BrickActionsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E1228045C2008C95DC /* BrickActionsViewController.swift */; };
+		BAFFF311228045C2008C95DC /* GridLinesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E2228045C2008C95DC /* GridLinesView.swift */; };
+		BAFFF312228045C2008C95DC /* GridLinesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E2228045C2008C95DC /* GridLinesView.swift */; };
+		BAFFF313228045C2008C95DC /* GridLinesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E2228045C2008C95DC /* GridLinesView.swift */; };
+		BAFFF314228045C2008C95DC /* BrickLightColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E3228045C2008C95DC /* BrickLightColor.swift */; };
+		BAFFF315228045C2008C95DC /* BrickLightColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E3228045C2008C95DC /* BrickLightColor.swift */; };
+		BAFFF316228045C2008C95DC /* BrickLightColor.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E3228045C2008C95DC /* BrickLightColor.swift */; };
+		BAFFF317228045C2008C95DC /* PlateGridViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E4228045C2008C95DC /* PlateGridViewLayout.swift */; };
+		BAFFF318228045C2008C95DC /* PlateGridViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E4228045C2008C95DC /* PlateGridViewLayout.swift */; };
+		BAFFF319228045C2008C95DC /* PlateGridViewLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E4228045C2008C95DC /* PlateGridViewLayout.swift */; };
+		BAFFF31A228045C2008C95DC /* CommandType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E5228045C2008C95DC /* CommandType.swift */; };
+		BAFFF31B228045C2008C95DC /* CommandType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E5228045C2008C95DC /* CommandType.swift */; };
+		BAFFF31C228045C2008C95DC /* CommandType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E5228045C2008C95DC /* CommandType.swift */; };
+		BAFFF31D228045C2008C95DC /* ReplyOperation+Reading.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E6228045C2008C95DC /* ReplyOperation+Reading.swift */; };
+		BAFFF31E228045C2008C95DC /* ReplyOperation+Reading.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E6228045C2008C95DC /* ReplyOperation+Reading.swift */; };
+		BAFFF31F228045C2008C95DC /* ReplyOperation+Reading.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E6228045C2008C95DC /* ReplyOperation+Reading.swift */; };
+		BAFFF320228045C2008C95DC /* BrickLightMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E7228045C2008C95DC /* BrickLightMode.swift */; };
+		BAFFF321228045C2008C95DC /* BrickLightMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E7228045C2008C95DC /* BrickLightMode.swift */; };
+		BAFFF322228045C2008C95DC /* BrickLightMode.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E7228045C2008C95DC /* BrickLightMode.swift */; };
+		BAFFF323228045C2008C95DC /* DrawCommand+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E8228045C2008C95DC /* DrawCommand+PlaygroundValue.swift */; };
+		BAFFF324228045C2008C95DC /* DrawCommand+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E8228045C2008C95DC /* DrawCommand+PlaygroundValue.swift */; };
+		BAFFF325228045C2008C95DC /* DrawCommand+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E8228045C2008C95DC /* DrawCommand+PlaygroundValue.swift */; };
+		BAFFF326228045C2008C95DC /* InputDeviceCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E9228045C2008C95DC /* InputDeviceCommand.swift */; };
+		BAFFF327228045C2008C95DC /* InputDeviceCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E9228045C2008C95DC /* InputDeviceCommand.swift */; };
+		BAFFF328228045C2008C95DC /* InputDeviceCommand.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1E9228045C2008C95DC /* InputDeviceCommand.swift */; };
+		BAFFF329228045C2008C95DC /* ReplyOperationReply+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1EA228045C2008C95DC /* ReplyOperationReply+PlaygroundValue.swift */; };
+		BAFFF32A228045C2008C95DC /* ReplyOperationReply+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1EA228045C2008C95DC /* ReplyOperationReply+PlaygroundValue.swift */; };
+		BAFFF32B228045C2008C95DC /* ReplyOperationReply+PlaygroundValue.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1EA228045C2008C95DC /* ReplyOperationReply+PlaygroundValue.swift */; };
+		BAFFF32C228045C2008C95DC /* RobotAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1EB228045C2008C95DC /* RobotAPI.swift */; };
+		BAFFF32D228045C2008C95DC /* RobotAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1EB228045C2008C95DC /* RobotAPI.swift */; };
+		BAFFF32E228045C2008C95DC /* RobotAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1EB228045C2008C95DC /* RobotAPI.swift */; };
+		BAFFF32F228045C2008C95DC /* GraphTimeLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1EC228045C2008C95DC /* GraphTimeLabel.swift */; };
+		BAFFF330228045C2008C95DC /* GraphTimeLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1EC228045C2008C95DC /* GraphTimeLabel.swift */; };
+		BAFFF331228045C2008C95DC /* GraphTimeLabel.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1EC228045C2008C95DC /* GraphTimeLabel.swift */; };
+		BAFFF332228045C2008C95DC /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1ED228045C2008C95DC /* RoundedButton.swift */; };
+		BAFFF333228045C2008C95DC /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1ED228045C2008C95DC /* RoundedButton.swift */; };
+		BAFFF334228045C2008C95DC /* RoundedButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1ED228045C2008C95DC /* RoundedButton.swift */; };
+		BAFFF335228045C2008C95DC /* InputPort.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1EE228045C2008C95DC /* InputPort.swift */; };
+		BAFFF336228045C2008C95DC /* InputPort.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1EE228045C2008C95DC /* InputPort.swift */; };
+		BAFFF337228045C2008C95DC /* InputPort.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1EE228045C2008C95DC /* InputPort.swift */; };
+		BAFFF338228045C2008C95DC /* UIViewController+Storyboards.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1EF228045C2008C95DC /* UIViewController+Storyboards.swift */; };
+		BAFFF339228045C2008C95DC /* UIViewController+Storyboards.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1EF228045C2008C95DC /* UIViewController+Storyboards.swift */; };
+		BAFFF33A228045C2008C95DC /* UIViewController+Storyboards.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1EF228045C2008C95DC /* UIViewController+Storyboards.swift */; };
+		BAFFF33B228045C2008C95DC /* SoundStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F0228045C2008C95DC /* SoundStyle.swift */; };
+		BAFFF33C228045C2008C95DC /* SoundStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F0228045C2008C95DC /* SoundStyle.swift */; };
+		BAFFF33D228045C2008C95DC /* SoundStyle.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F0228045C2008C95DC /* SoundStyle.swift */; };
+		BAFFF33E228045C2008C95DC /* BrickGeometry.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F1228045C2008C95DC /* BrickGeometry.swift */; };
+		BAFFF33F228045C2008C95DC /* BrickGeometry.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F1228045C2008C95DC /* BrickGeometry.swift */; };
+		BAFFF340228045C2008C95DC /* BrickGeometry.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F1228045C2008C95DC /* BrickGeometry.swift */; };
+		BAFFF341228045C2008C95DC /* ReplyOperationReply.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F2228045C2008C95DC /* ReplyOperationReply.swift */; };
+		BAFFF342228045C2008C95DC /* ReplyOperationReply.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F2228045C2008C95DC /* ReplyOperationReply.swift */; };
+		BAFFF343228045C2008C95DC /* ReplyOperationReply.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F2228045C2008C95DC /* ReplyOperationReply.swift */; };
+		BAFFF344228045C2008C95DC /* Robot.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F3228045C2008C95DC /* Robot.swift */; };
+		BAFFF345228045C2008C95DC /* Robot.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F3228045C2008C95DC /* Robot.swift */; };
+		BAFFF346228045C2008C95DC /* Robot.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F3228045C2008C95DC /* Robot.swift */; };
+		BAFFF347228045C2008C95DC /* DebugUIHardwareCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F4228045C2008C95DC /* DebugUIHardwareCollectionView.swift */; };
+		BAFFF348228045C2008C95DC /* DebugUIHardwareCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F4228045C2008C95DC /* DebugUIHardwareCollectionView.swift */; };
+		BAFFF349228045C2008C95DC /* DebugUIHardwareCollectionView.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F4228045C2008C95DC /* DebugUIHardwareCollectionView.swift */; };
+		BAFFF34A228045C2008C95DC /* ConnectionTypeByteCodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F5228045C2008C95DC /* ConnectionTypeByteCodes.swift */; };
+		BAFFF34B228045C2008C95DC /* ConnectionTypeByteCodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F5228045C2008C95DC /* ConnectionTypeByteCodes.swift */; };
+		BAFFF34C228045C2008C95DC /* ConnectionTypeByteCodes.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F5228045C2008C95DC /* ConnectionTypeByteCodes.swift */; };
+		BAFFF34D228045C2008C95DC /* PortDataGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F6228045C2008C95DC /* PortDataGraph.swift */; };
+		BAFFF34E228045C2008C95DC /* PortDataGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F6228045C2008C95DC /* PortDataGraph.swift */; };
+		BAFFF34F228045C2008C95DC /* PortDataGraph.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F6228045C2008C95DC /* PortDataGraph.swift */; };
+		BAFFF350228045C2008C95DC /* Operation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F7228045C2008C95DC /* Operation.swift */; };
+		BAFFF351228045C2008C95DC /* Operation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F7228045C2008C95DC /* Operation.swift */; };
+		BAFFF352228045C2008C95DC /* Operation.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F7228045C2008C95DC /* Operation.swift */; };
+		BAFFF353228045C2008C95DC /* LiveViewController+CommunicationLayerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F8228045C2008C95DC /* LiveViewController+CommunicationLayerDelegate.swift */; };
+		BAFFF354228045C2008C95DC /* LiveViewController+CommunicationLayerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F8228045C2008C95DC /* LiveViewController+CommunicationLayerDelegate.swift */; };
+		BAFFF355228045C2008C95DC /* LiveViewController+CommunicationLayerDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F8228045C2008C95DC /* LiveViewController+CommunicationLayerDelegate.swift */; };
+		BAFFF356228045C2008C95DC /* Operation+Parameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F9228045C2008C95DC /* Operation+Parameters.swift */; };
+		BAFFF357228045C2008C95DC /* Operation+Parameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F9228045C2008C95DC /* Operation+Parameters.swift */; };
+		BAFFF358228045C2008C95DC /* Operation+Parameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1F9228045C2008C95DC /* Operation+Parameters.swift */; };
+		BAFFF359228045C2008C95DC /* PlateGridViewLayout+SingleVerticalPairLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1FA228045C2008C95DC /* PlateGridViewLayout+SingleVerticalPairLayout.swift */; };
+		BAFFF35A228045C2008C95DC /* PlateGridViewLayout+SingleVerticalPairLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1FA228045C2008C95DC /* PlateGridViewLayout+SingleVerticalPairLayout.swift */; };
+		BAFFF35B228045C2008C95DC /* PlateGridViewLayout+SingleVerticalPairLayout.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1FA228045C2008C95DC /* PlateGridViewLayout+SingleVerticalPairLayout.swift */; };
+		BAFFF35C228045C2008C95DC /* GridLineType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1FB228045C2008C95DC /* GridLineType.swift */; };
+		BAFFF35D228045C2008C95DC /* GridLineType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1FB228045C2008C95DC /* GridLineType.swift */; };
+		BAFFF35E228045C2008C95DC /* GridLineType.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1FB228045C2008C95DC /* GridLineType.swift */; };
+		BAFFF35F228045C2008C95DC /* RobotDisplayMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1FC228045C2008C95DC /* RobotDisplayMethods.swift */; };
+		BAFFF360228045C2008C95DC /* RobotDisplayMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1FC228045C2008C95DC /* RobotDisplayMethods.swift */; };
+		BAFFF361228045C2008C95DC /* RobotDisplayMethods.swift in Sources */ = {isa = PBXBuildFile; fileRef = BAFFF1FC228045C2008C95DC /* RobotDisplayMethods.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +386,126 @@
 		BAFFF17F22803E71008C95DC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/WatchOS.platform/Developer/SDKs/WatchOS5.2.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		BAFFF18122803E7C008C95DC /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS12.2.sdk/System/Library/Frameworks/UIKit.framework; sourceTree = DEVELOPER_DIR; };
 		BAFFF18322803E9B008C95DC /* Cocoa.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Cocoa.framework; path = System/Library/Frameworks/Cocoa.framework; sourceTree = SDKROOT; };
+		BAFFF186228045C2008C95DC /* BlockCondition+PlaygroundValue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "BlockCondition+PlaygroundValue.swift"; sourceTree = "<group>"; };
+		BAFFF187228045C2008C95DC /* DisplayFont.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DisplayFont.swift; sourceTree = "<group>"; };
+		BAFFF188228045C2008C95DC /* InputDeviceCommand+PlaygroundValue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "InputDeviceCommand+PlaygroundValue.swift"; sourceTree = "<group>"; };
+		BAFFF189228045C2008C95DC /* DebugUIPort.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DebugUIPort.swift; sourceTree = "<group>"; };
+		BAFFF18A228045C2008C95DC /* PlateGridViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlateGridViewCell.swift; sourceTree = "<group>"; };
+		BAFFF18B228045C2008C95DC /* Random.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Random.swift; sourceTree = "<group>"; };
+		BAFFF18C228045C2008C95DC /* ParameterCommand.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ParameterCommand.swift; sourceTree = "<group>"; };
+		BAFFF18D228045C2008C95DC /* PlateConnection.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlateConnection.swift; sourceTree = "<group>"; };
+		BAFFF18E228045C2008C95DC /* PlateGridViewLayout+SingleHorizontalPairLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlateGridViewLayout+SingleHorizontalPairLayout.swift"; sourceTree = "<group>"; };
+		BAFFF18F228045C2008C95DC /* ReplyOperation+PlaygroundValue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ReplyOperation+PlaygroundValue.swift"; sourceTree = "<group>"; };
+		BAFFF190228045C2008C95DC /* LiveViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LiveViewController.swift; sourceTree = "<group>"; };
+		BAFFF191228045C2008C95DC /* LiveViewMessageKey.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LiveViewMessageKey.swift; sourceTree = "<group>"; };
+		BAFFF192228045C2008C95DC /* LiveViewController+MessageHandler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "LiveViewController+MessageHandler.swift"; sourceTree = "<group>"; };
+		BAFFF193228045C2008C95DC /* MockLiveViewProxy.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MockLiveViewProxy.swift; sourceTree = "<group>"; };
+		BAFFF194228045C2008C95DC /* Logging.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Logging.swift; sourceTree = "<group>"; };
+		BAFFF195228045C2008C95DC /* RobotWaitForMethods.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RobotWaitForMethods.swift; sourceTree = "<group>"; };
+		BAFFF196228045C2008C95DC /* ReplyOperation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReplyOperation.swift; sourceTree = "<group>"; };
+		BAFFF197228045C2008C95DC /* LiveViewController+SupportingContent.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "LiveViewController+SupportingContent.swift"; sourceTree = "<group>"; };
+		BAFFF198228045C2008C95DC /* PlatesViewController+DataSource.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlatesViewController+DataSource.swift"; sourceTree = "<group>"; };
+		BAFFF199228045C2008C95DC /* Port.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Port.swift; sourceTree = "<group>"; };
+		BAFFF19A228045C2008C95DC /* SoundFile.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoundFile.swift; sourceTree = "<group>"; };
+		BAFFF19B228045C2008C95DC /* BlockCondition.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BlockCondition.swift; sourceTree = "<group>"; };
+		BAFFF19C228045C2008C95DC /* DrawCommand.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DrawCommand.swift; sourceTree = "<group>"; };
+		BAFFF19D228045C2008C95DC /* PlateGridViewLayout+EmptyLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlateGridViewLayout+EmptyLayout.swift"; sourceTree = "<group>"; };
+		BAFFF19E228045C2008C95DC /* UICollectionViewLayoutAttributes+BrickGeometry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UICollectionViewLayoutAttributes+BrickGeometry.swift"; sourceTree = "<group>"; };
+		BAFFF19F228045C2008C95DC /* ConnectionDataLogger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConnectionDataLogger.swift; sourceTree = "<group>"; };
+		BAFFF1A0228045C2008C95DC /* Icon.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Icon.swift; sourceTree = "<group>"; };
+		BAFFF1A1228045C2008C95DC /* WriteCommand.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WriteCommand.swift; sourceTree = "<group>"; };
+		BAFFF1A2228045C2008C95DC /* PortType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PortType.swift; sourceTree = "<group>"; };
+		BAFFF1A3228045C2008C95DC /* PortMode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PortMode.swift; sourceTree = "<group>"; };
+		BAFFF1A4228045C2008C95DC /* OutputPort.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OutputPort.swift; sourceTree = "<group>"; };
+		BAFFF1A5228045C2008C95DC /* ReplyOperation+Parameters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ReplyOperation+Parameters.swift"; sourceTree = "<group>"; };
+		BAFFF1A6228045C2008C95DC /* PortValueLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PortValueLabel.swift; sourceTree = "<group>"; };
+		BAFFF1A7228045C2008C95DC /* ImageName.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageName.swift; sourceTree = "<group>"; };
+		BAFFF1A8228045C2008C95DC /* PortData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PortData.swift; sourceTree = "<group>"; };
+		BAFFF1A9228045C2008C95DC /* BytecodeEncodable+PlaygroundValue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "BytecodeEncodable+PlaygroundValue.swift"; sourceTree = "<group>"; };
+		BAFFF1AA228045C2008C95DC /* RobotOutputMethods.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RobotOutputMethods.swift; sourceTree = "<group>"; };
+		BAFFF1AB228045C2008C95DC /* DebugUIPortView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DebugUIPortView.swift; sourceTree = "<group>"; };
+		BAFFF1AC228045C2008C95DC /* PlateGridViewLayout+SingleLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlateGridViewLayout+SingleLayout.swift"; sourceTree = "<group>"; };
+		BAFFF1AD228045C2008C95DC /* IconType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IconType.swift; sourceTree = "<group>"; };
+		BAFFF1AE228045C2008C95DC /* WriteCommand+PlaygroundValue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "WriteCommand+PlaygroundValue.swift"; sourceTree = "<group>"; };
+		BAFFF1AF228045C2008C95DC /* GridLine.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GridLine.swift; sourceTree = "<group>"; };
+		BAFFF1B0228045C2008C95DC /* PlatesViewController+BrickActionsViewControllerDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlatesViewController+BrickActionsViewControllerDelegate.swift"; sourceTree = "<group>"; };
+		BAFFF1B1228045C2008C95DC /* LiveViewController+DebugUI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "LiveViewController+DebugUI.swift"; sourceTree = "<group>"; };
+		BAFFF1B2228045C2008C95DC /* PlateTableViewLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlateTableViewLayout.swift; sourceTree = "<group>"; };
+		BAFFF1B3228045C2008C95DC /* PlatesViewController+CommunicationLayerDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlatesViewController+CommunicationLayerDelegate.swift"; sourceTree = "<group>"; };
+		BAFFF1B4228045C2008C95DC /* BrickActionsCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrickActionsCell.swift; sourceTree = "<group>"; };
+		BAFFF1B5228045C2008C95DC /* EV3Communicator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EV3Communicator.swift; sourceTree = "<group>"; };
+		BAFFF1B6228045C2008C95DC /* PlateTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlateTableViewCell.swift; sourceTree = "<group>"; };
+		BAFFF1B7228045C2008C95DC /* PlatesViewController+PortModeSwitcherViewDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlatesViewController+PortModeSwitcherViewDelegate.swift"; sourceTree = "<group>"; };
+		BAFFF1B8228045C2008C95DC /* PlaygroundValueAccessor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaygroundValueAccessor.swift; sourceTree = "<group>"; };
+		BAFFF1B9228045C2008C95DC /* PortsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PortsView.swift; sourceTree = "<group>"; };
+		BAFFF1BA228045C2008C95DC /* PlateGridViewLayout+DefaultLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlateGridViewLayout+DefaultLayout.swift"; sourceTree = "<group>"; };
+		BAFFF1BB228045C2008C95DC /* Operation+PlaygroundValue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Operation+PlaygroundValue.swift"; sourceTree = "<group>"; };
+		BAFFF1BC228045C2008C95DC /* PlatesViewController+PlaygroundLiveViewMessageHandler.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlatesViewController+PlaygroundLiveViewMessageHandler.swift"; sourceTree = "<group>"; };
+		BAFFF1BD228045C2008C95DC /* SoundCommand.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoundCommand.swift; sourceTree = "<group>"; };
+		BAFFF1BE228045C2008C95DC /* UserCodeState.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UserCodeState.swift; sourceTree = "<group>"; };
+		BAFFF1BF228045C2008C95DC /* PortView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PortView.swift; sourceTree = "<group>"; };
+		BAFFF1C0228045C2008C95DC /* ConnectionOverviewViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConnectionOverviewViewController.swift; sourceTree = "<group>"; };
+		BAFFF1C1228045C2008C95DC /* DebugUIHardwareViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DebugUIHardwareViewCell.swift; sourceTree = "<group>"; };
+		BAFFF1C2228045C2008C95DC /* Command.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Command.swift; sourceTree = "<group>"; };
+		BAFFF1C3228045C2008C95DC /* ConnectionViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConnectionViewController.swift; sourceTree = "<group>"; };
+		BAFFF1C4228045C2008C95DC /* PlaygroundPageSupport.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaygroundPageSupport.swift; sourceTree = "<group>"; };
+		BAFFF1C5228045C2008C95DC /* CommandManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CommandManager.swift; sourceTree = "<group>"; };
+		BAFFF1C6228045C2008C95DC /* PixelSize.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PixelSize.swift; sourceTree = "<group>"; };
+		BAFFF1C7228045C2008C95DC /* PlatesViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlatesViewController.swift; sourceTree = "<group>"; };
+		BAFFF1C8228045C2008C95DC /* ConnectionActionsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConnectionActionsViewController.swift; sourceTree = "<group>"; };
+		BAFFF1C9228045C2008C95DC /* PlateCollectionViewLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlateCollectionViewLayout.swift; sourceTree = "<group>"; };
+		BAFFF1CA228045C2008C95DC /* SoundCommand+PlaygroundValue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "SoundCommand+PlaygroundValue.swift"; sourceTree = "<group>"; };
+		BAFFF1CB228045C2008C95DC /* StuddedView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StuddedView.swift; sourceTree = "<group>"; };
+		BAFFF1CC228045C2008C95DC /* DebugUIPart.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DebugUIPart.swift; sourceTree = "<group>"; };
+		BAFFF1CD228045C2008C95DC /* PlateGridViewLayout+GridLines.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlateGridViewLayout+GridLines.swift"; sourceTree = "<group>"; };
+		BAFFF1CE228045C2008C95DC /* Robot+ProxyDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Robot+ProxyDelegate.swift"; sourceTree = "<group>"; };
+		BAFFF1CF228045C2008C95DC /* UIColor+Lego.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIColor+Lego.swift"; sourceTree = "<group>"; };
+		BAFFF1D0228045C2008C95DC /* PlateCollectionViewMask.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlateCollectionViewMask.swift; sourceTree = "<group>"; };
+		BAFFF1D1228045C2008C95DC /* RobotError.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RobotError.swift; sourceTree = "<group>"; };
+		BAFFF1D2228045C2008C95DC /* PlaygroundKeyValueStoreExtension.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaygroundKeyValueStoreExtension.swift; sourceTree = "<group>"; };
+		BAFFF1D3228045C2008C95DC /* Note.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Note.swift; sourceTree = "<group>"; };
+		BAFFF1D4228045C2008C95DC /* EV3CommunicationLayer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EV3CommunicationLayer.swift; sourceTree = "<group>"; };
+		BAFFF1D5228045C2008C95DC /* RobotInputMethods.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RobotInputMethods.swift; sourceTree = "<group>"; };
+		BAFFF1D6228045C2008C95DC /* PixelLocation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PixelLocation.swift; sourceTree = "<group>"; };
+		BAFFF1D7228045C2008C95DC /* MotorType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = MotorType.swift; sourceTree = "<group>"; };
+		BAFFF1D8228045C2008C95DC /* DisplayColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DisplayColor.swift; sourceTree = "<group>"; };
+		BAFFF1D9228045C2008C95DC /* PlateTableViewCellGraphLinesView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlateTableViewCellGraphLinesView.swift; sourceTree = "<group>"; };
+		BAFFF1DA228045C2008C95DC /* PortModeSwitcherView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PortModeSwitcherView.swift; sourceTree = "<group>"; };
+		BAFFF1DB228045C2008C95DC /* BytecodeEncodable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BytecodeEncodable.swift; sourceTree = "<group>"; };
+		BAFFF1DC228045C2008C95DC /* GridLineView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GridLineView.swift; sourceTree = "<group>"; };
+		BAFFF1DD228045C2008C95DC /* ColorValue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorValue.swift; sourceTree = "<group>"; };
+		BAFFF1DE228045C2008C95DC /* ConnectionInstructionsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConnectionInstructionsViewController.swift; sourceTree = "<group>"; };
+		BAFFF1DF228045C2008C95DC /* Comparable+clamped.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Comparable+clamped.swift"; sourceTree = "<group>"; };
+		BAFFF1E0228045C2008C95DC /* VariableWidthData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VariableWidthData.swift; sourceTree = "<group>"; };
+		BAFFF1E1228045C2008C95DC /* BrickActionsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrickActionsViewController.swift; sourceTree = "<group>"; };
+		BAFFF1E2228045C2008C95DC /* GridLinesView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GridLinesView.swift; sourceTree = "<group>"; };
+		BAFFF1E3228045C2008C95DC /* BrickLightColor.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrickLightColor.swift; sourceTree = "<group>"; };
+		BAFFF1E4228045C2008C95DC /* PlateGridViewLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlateGridViewLayout.swift; sourceTree = "<group>"; };
+		BAFFF1E5228045C2008C95DC /* CommandType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CommandType.swift; sourceTree = "<group>"; };
+		BAFFF1E6228045C2008C95DC /* ReplyOperation+Reading.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ReplyOperation+Reading.swift"; sourceTree = "<group>"; };
+		BAFFF1E7228045C2008C95DC /* BrickLightMode.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrickLightMode.swift; sourceTree = "<group>"; };
+		BAFFF1E8228045C2008C95DC /* DrawCommand+PlaygroundValue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "DrawCommand+PlaygroundValue.swift"; sourceTree = "<group>"; };
+		BAFFF1E9228045C2008C95DC /* InputDeviceCommand.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InputDeviceCommand.swift; sourceTree = "<group>"; };
+		BAFFF1EA228045C2008C95DC /* ReplyOperationReply+PlaygroundValue.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "ReplyOperationReply+PlaygroundValue.swift"; sourceTree = "<group>"; };
+		BAFFF1EB228045C2008C95DC /* RobotAPI.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RobotAPI.swift; sourceTree = "<group>"; };
+		BAFFF1EC228045C2008C95DC /* GraphTimeLabel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GraphTimeLabel.swift; sourceTree = "<group>"; };
+		BAFFF1ED228045C2008C95DC /* RoundedButton.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RoundedButton.swift; sourceTree = "<group>"; };
+		BAFFF1EE228045C2008C95DC /* InputPort.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InputPort.swift; sourceTree = "<group>"; };
+		BAFFF1EF228045C2008C95DC /* UIViewController+Storyboards.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "UIViewController+Storyboards.swift"; sourceTree = "<group>"; };
+		BAFFF1F0228045C2008C95DC /* SoundStyle.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SoundStyle.swift; sourceTree = "<group>"; };
+		BAFFF1F1228045C2008C95DC /* BrickGeometry.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BrickGeometry.swift; sourceTree = "<group>"; };
+		BAFFF1F2228045C2008C95DC /* ReplyOperationReply.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ReplyOperationReply.swift; sourceTree = "<group>"; };
+		BAFFF1F3228045C2008C95DC /* Robot.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Robot.swift; sourceTree = "<group>"; };
+		BAFFF1F4228045C2008C95DC /* DebugUIHardwareCollectionView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DebugUIHardwareCollectionView.swift; sourceTree = "<group>"; };
+		BAFFF1F5228045C2008C95DC /* ConnectionTypeByteCodes.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ConnectionTypeByteCodes.swift; sourceTree = "<group>"; };
+		BAFFF1F6228045C2008C95DC /* PortDataGraph.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PortDataGraph.swift; sourceTree = "<group>"; };
+		BAFFF1F7228045C2008C95DC /* Operation.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Operation.swift; sourceTree = "<group>"; };
+		BAFFF1F8228045C2008C95DC /* LiveViewController+CommunicationLayerDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "LiveViewController+CommunicationLayerDelegate.swift"; sourceTree = "<group>"; };
+		BAFFF1F9228045C2008C95DC /* Operation+Parameters.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "Operation+Parameters.swift"; sourceTree = "<group>"; };
+		BAFFF1FA228045C2008C95DC /* PlateGridViewLayout+SingleVerticalPairLayout.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = "PlateGridViewLayout+SingleVerticalPairLayout.swift"; sourceTree = "<group>"; };
+		BAFFF1FB228045C2008C95DC /* GridLineType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GridLineType.swift; sourceTree = "<group>"; };
+		BAFFF1FC228045C2008C95DC /* RobotDisplayMethods.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RobotDisplayMethods.swift; sourceTree = "<group>"; };
+		BAFFF366228054B4008C95DC /* Cartfile */ = {isa = PBXFileReference; lastKnownFileType = text; path = Cartfile; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -81,6 +558,7 @@
 			children = (
 				BAFFF17122801838008C95DC /* LICENSE */,
 				BAFFF17022801838008C95DC /* README.md */,
+				BAFFF366228054B4008C95DC /* Cartfile */,
 			);
 			name = metadata;
 			sourceTree = "<group>";
@@ -93,6 +571,7 @@
 				BAFFF174228019C8008C95DC /* Info-osx.plist */,
 				BAFFF169228017FD008C95DC /* ev3swift.h */,
 				BAFFF17A22802F37008C95DC /* HelloWorld.swift */,
+				BAFFF185228045C2008C95DC /* ev3 */,
 			);
 			path = Sources;
 			sourceTree = "<group>";
@@ -105,6 +584,132 @@
 				BAFFF17F22803E71008C95DC /* UIKit.framework */,
 			);
 			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		BAFFF185228045C2008C95DC /* ev3 */ = {
+			isa = PBXGroup;
+			children = (
+				BAFFF186228045C2008C95DC /* BlockCondition+PlaygroundValue.swift */,
+				BAFFF187228045C2008C95DC /* DisplayFont.swift */,
+				BAFFF188228045C2008C95DC /* InputDeviceCommand+PlaygroundValue.swift */,
+				BAFFF189228045C2008C95DC /* DebugUIPort.swift */,
+				BAFFF18A228045C2008C95DC /* PlateGridViewCell.swift */,
+				BAFFF18B228045C2008C95DC /* Random.swift */,
+				BAFFF18C228045C2008C95DC /* ParameterCommand.swift */,
+				BAFFF18D228045C2008C95DC /* PlateConnection.swift */,
+				BAFFF18E228045C2008C95DC /* PlateGridViewLayout+SingleHorizontalPairLayout.swift */,
+				BAFFF18F228045C2008C95DC /* ReplyOperation+PlaygroundValue.swift */,
+				BAFFF190228045C2008C95DC /* LiveViewController.swift */,
+				BAFFF191228045C2008C95DC /* LiveViewMessageKey.swift */,
+				BAFFF192228045C2008C95DC /* LiveViewController+MessageHandler.swift */,
+				BAFFF193228045C2008C95DC /* MockLiveViewProxy.swift */,
+				BAFFF194228045C2008C95DC /* Logging.swift */,
+				BAFFF195228045C2008C95DC /* RobotWaitForMethods.swift */,
+				BAFFF196228045C2008C95DC /* ReplyOperation.swift */,
+				BAFFF197228045C2008C95DC /* LiveViewController+SupportingContent.swift */,
+				BAFFF198228045C2008C95DC /* PlatesViewController+DataSource.swift */,
+				BAFFF199228045C2008C95DC /* Port.swift */,
+				BAFFF19A228045C2008C95DC /* SoundFile.swift */,
+				BAFFF19B228045C2008C95DC /* BlockCondition.swift */,
+				BAFFF19C228045C2008C95DC /* DrawCommand.swift */,
+				BAFFF19D228045C2008C95DC /* PlateGridViewLayout+EmptyLayout.swift */,
+				BAFFF19E228045C2008C95DC /* UICollectionViewLayoutAttributes+BrickGeometry.swift */,
+				BAFFF19F228045C2008C95DC /* ConnectionDataLogger.swift */,
+				BAFFF1A0228045C2008C95DC /* Icon.swift */,
+				BAFFF1A1228045C2008C95DC /* WriteCommand.swift */,
+				BAFFF1A2228045C2008C95DC /* PortType.swift */,
+				BAFFF1A3228045C2008C95DC /* PortMode.swift */,
+				BAFFF1A4228045C2008C95DC /* OutputPort.swift */,
+				BAFFF1A5228045C2008C95DC /* ReplyOperation+Parameters.swift */,
+				BAFFF1A6228045C2008C95DC /* PortValueLabel.swift */,
+				BAFFF1A7228045C2008C95DC /* ImageName.swift */,
+				BAFFF1A8228045C2008C95DC /* PortData.swift */,
+				BAFFF1A9228045C2008C95DC /* BytecodeEncodable+PlaygroundValue.swift */,
+				BAFFF1AA228045C2008C95DC /* RobotOutputMethods.swift */,
+				BAFFF1AB228045C2008C95DC /* DebugUIPortView.swift */,
+				BAFFF1AC228045C2008C95DC /* PlateGridViewLayout+SingleLayout.swift */,
+				BAFFF1AD228045C2008C95DC /* IconType.swift */,
+				BAFFF1AE228045C2008C95DC /* WriteCommand+PlaygroundValue.swift */,
+				BAFFF1AF228045C2008C95DC /* GridLine.swift */,
+				BAFFF1B0228045C2008C95DC /* PlatesViewController+BrickActionsViewControllerDelegate.swift */,
+				BAFFF1B1228045C2008C95DC /* LiveViewController+DebugUI.swift */,
+				BAFFF1B2228045C2008C95DC /* PlateTableViewLayout.swift */,
+				BAFFF1B3228045C2008C95DC /* PlatesViewController+CommunicationLayerDelegate.swift */,
+				BAFFF1B4228045C2008C95DC /* BrickActionsCell.swift */,
+				BAFFF1B5228045C2008C95DC /* EV3Communicator.swift */,
+				BAFFF1B6228045C2008C95DC /* PlateTableViewCell.swift */,
+				BAFFF1B7228045C2008C95DC /* PlatesViewController+PortModeSwitcherViewDelegate.swift */,
+				BAFFF1B8228045C2008C95DC /* PlaygroundValueAccessor.swift */,
+				BAFFF1B9228045C2008C95DC /* PortsView.swift */,
+				BAFFF1BA228045C2008C95DC /* PlateGridViewLayout+DefaultLayout.swift */,
+				BAFFF1BB228045C2008C95DC /* Operation+PlaygroundValue.swift */,
+				BAFFF1BC228045C2008C95DC /* PlatesViewController+PlaygroundLiveViewMessageHandler.swift */,
+				BAFFF1BD228045C2008C95DC /* SoundCommand.swift */,
+				BAFFF1BE228045C2008C95DC /* UserCodeState.swift */,
+				BAFFF1BF228045C2008C95DC /* PortView.swift */,
+				BAFFF1C0228045C2008C95DC /* ConnectionOverviewViewController.swift */,
+				BAFFF1C1228045C2008C95DC /* DebugUIHardwareViewCell.swift */,
+				BAFFF1C2228045C2008C95DC /* Command.swift */,
+				BAFFF1C3228045C2008C95DC /* ConnectionViewController.swift */,
+				BAFFF1C4228045C2008C95DC /* PlaygroundPageSupport.swift */,
+				BAFFF1C5228045C2008C95DC /* CommandManager.swift */,
+				BAFFF1C6228045C2008C95DC /* PixelSize.swift */,
+				BAFFF1C7228045C2008C95DC /* PlatesViewController.swift */,
+				BAFFF1C8228045C2008C95DC /* ConnectionActionsViewController.swift */,
+				BAFFF1C9228045C2008C95DC /* PlateCollectionViewLayout.swift */,
+				BAFFF1CA228045C2008C95DC /* SoundCommand+PlaygroundValue.swift */,
+				BAFFF1CB228045C2008C95DC /* StuddedView.swift */,
+				BAFFF1CC228045C2008C95DC /* DebugUIPart.swift */,
+				BAFFF1CD228045C2008C95DC /* PlateGridViewLayout+GridLines.swift */,
+				BAFFF1CE228045C2008C95DC /* Robot+ProxyDelegate.swift */,
+				BAFFF1CF228045C2008C95DC /* UIColor+Lego.swift */,
+				BAFFF1D0228045C2008C95DC /* PlateCollectionViewMask.swift */,
+				BAFFF1D1228045C2008C95DC /* RobotError.swift */,
+				BAFFF1D2228045C2008C95DC /* PlaygroundKeyValueStoreExtension.swift */,
+				BAFFF1D3228045C2008C95DC /* Note.swift */,
+				BAFFF1D4228045C2008C95DC /* EV3CommunicationLayer.swift */,
+				BAFFF1D5228045C2008C95DC /* RobotInputMethods.swift */,
+				BAFFF1D6228045C2008C95DC /* PixelLocation.swift */,
+				BAFFF1D7228045C2008C95DC /* MotorType.swift */,
+				BAFFF1D8228045C2008C95DC /* DisplayColor.swift */,
+				BAFFF1D9228045C2008C95DC /* PlateTableViewCellGraphLinesView.swift */,
+				BAFFF1DA228045C2008C95DC /* PortModeSwitcherView.swift */,
+				BAFFF1DB228045C2008C95DC /* BytecodeEncodable.swift */,
+				BAFFF1DC228045C2008C95DC /* GridLineView.swift */,
+				BAFFF1DD228045C2008C95DC /* ColorValue.swift */,
+				BAFFF1DE228045C2008C95DC /* ConnectionInstructionsViewController.swift */,
+				BAFFF1DF228045C2008C95DC /* Comparable+clamped.swift */,
+				BAFFF1E0228045C2008C95DC /* VariableWidthData.swift */,
+				BAFFF1E1228045C2008C95DC /* BrickActionsViewController.swift */,
+				BAFFF1E2228045C2008C95DC /* GridLinesView.swift */,
+				BAFFF1E3228045C2008C95DC /* BrickLightColor.swift */,
+				BAFFF1E4228045C2008C95DC /* PlateGridViewLayout.swift */,
+				BAFFF1E5228045C2008C95DC /* CommandType.swift */,
+				BAFFF1E6228045C2008C95DC /* ReplyOperation+Reading.swift */,
+				BAFFF1E7228045C2008C95DC /* BrickLightMode.swift */,
+				BAFFF1E8228045C2008C95DC /* DrawCommand+PlaygroundValue.swift */,
+				BAFFF1E9228045C2008C95DC /* InputDeviceCommand.swift */,
+				BAFFF1EA228045C2008C95DC /* ReplyOperationReply+PlaygroundValue.swift */,
+				BAFFF1EB228045C2008C95DC /* RobotAPI.swift */,
+				BAFFF1EC228045C2008C95DC /* GraphTimeLabel.swift */,
+				BAFFF1ED228045C2008C95DC /* RoundedButton.swift */,
+				BAFFF1EE228045C2008C95DC /* InputPort.swift */,
+				BAFFF1EF228045C2008C95DC /* UIViewController+Storyboards.swift */,
+				BAFFF1F0228045C2008C95DC /* SoundStyle.swift */,
+				BAFFF1F1228045C2008C95DC /* BrickGeometry.swift */,
+				BAFFF1F2228045C2008C95DC /* ReplyOperationReply.swift */,
+				BAFFF1F3228045C2008C95DC /* Robot.swift */,
+				BAFFF1F4228045C2008C95DC /* DebugUIHardwareCollectionView.swift */,
+				BAFFF1F5228045C2008C95DC /* ConnectionTypeByteCodes.swift */,
+				BAFFF1F6228045C2008C95DC /* PortDataGraph.swift */,
+				BAFFF1F7228045C2008C95DC /* Operation.swift */,
+				BAFFF1F8228045C2008C95DC /* LiveViewController+CommunicationLayerDelegate.swift */,
+				BAFFF1F9228045C2008C95DC /* Operation+Parameters.swift */,
+				BAFFF1FA228045C2008C95DC /* PlateGridViewLayout+SingleVerticalPairLayout.swift */,
+				BAFFF1FB228045C2008C95DC /* GridLineType.swift */,
+				BAFFF1FC228045C2008C95DC /* RobotDisplayMethods.swift */,
+			);
+			path = ev3;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -261,7 +866,126 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BAFFF263228045C2008C95DC /* PortData.swift in Sources */,
+				BAFFF1FD228045C2008C95DC /* BlockCondition+PlaygroundValue.swift in Sources */,
+				BAFFF30B228045C2008C95DC /* VariableWidthData.swift in Sources */,
+				BAFFF31D228045C2008C95DC /* ReplyOperation+Reading.swift in Sources */,
+				BAFFF25A228045C2008C95DC /* ReplyOperation+Parameters.swift in Sources */,
+				BAFFF257228045C2008C95DC /* OutputPort.swift in Sources */,
+				BAFFF2A2228045C2008C95DC /* SoundCommand.swift in Sources */,
+				BAFFF305228045C2008C95DC /* ConnectionInstructionsViewController.swift in Sources */,
+				BAFFF350228045C2008C95DC /* Operation.swift in Sources */,
+				BAFFF20F228045C2008C95DC /* ParameterCommand.swift in Sources */,
+				BAFFF24B228045C2008C95DC /* Icon.swift in Sources */,
+				BAFFF317228045C2008C95DC /* PlateGridViewLayout.swift in Sources */,
+				BAFFF22A228045C2008C95DC /* RobotWaitForMethods.swift in Sources */,
+				BAFFF2C3228045C2008C95DC /* ConnectionActionsViewController.swift in Sources */,
+				BAFFF2B4228045C2008C95DC /* ConnectionViewController.swift in Sources */,
+				BAFFF200228045C2008C95DC /* DisplayFont.swift in Sources */,
+				BAFFF290228045C2008C95DC /* PlatesViewController+PortModeSwitcherViewDelegate.swift in Sources */,
+				BAFFF32F228045C2008C95DC /* GraphTimeLabel.swift in Sources */,
+				BAFFF242228045C2008C95DC /* PlateGridViewLayout+EmptyLayout.swift in Sources */,
+				BAFFF2AE228045C2008C95DC /* DebugUIHardwareViewCell.swift in Sources */,
 				BAFFF17B22802F37008C95DC /* HelloWorld.swift in Sources */,
+				BAFFF206228045C2008C95DC /* DebugUIPort.swift in Sources */,
+				BAFFF272228045C2008C95DC /* IconType.swift in Sources */,
+				BAFFF302228045C2008C95DC /* ColorValue.swift in Sources */,
+				BAFFF311228045C2008C95DC /* GridLinesView.swift in Sources */,
+				BAFFF347228045C2008C95DC /* DebugUIHardwareCollectionView.swift in Sources */,
+				BAFFF353228045C2008C95DC /* LiveViewController+CommunicationLayerDelegate.swift in Sources */,
+				BAFFF2CC228045C2008C95DC /* StuddedView.swift in Sources */,
+				BAFFF33B228045C2008C95DC /* SoundStyle.swift in Sources */,
+				BAFFF335228045C2008C95DC /* InputPort.swift in Sources */,
+				BAFFF32C228045C2008C95DC /* RobotAPI.swift in Sources */,
+				BAFFF275228045C2008C95DC /* WriteCommand+PlaygroundValue.swift in Sources */,
+				BAFFF28A228045C2008C95DC /* EV3Communicator.swift in Sources */,
+				BAFFF2FC228045C2008C95DC /* BytecodeEncodable.swift in Sources */,
+				BAFFF30E228045C2008C95DC /* BrickActionsViewController.swift in Sources */,
+				BAFFF2E1228045C2008C95DC /* PlaygroundKeyValueStoreExtension.swift in Sources */,
+				BAFFF236228045C2008C95DC /* Port.swift in Sources */,
+				BAFFF35C228045C2008C95DC /* GridLineType.swift in Sources */,
+				BAFFF2F3228045C2008C95DC /* DisplayColor.swift in Sources */,
+				BAFFF356228045C2008C95DC /* Operation+Parameters.swift in Sources */,
+				BAFFF218228045C2008C95DC /* ReplyOperation+PlaygroundValue.swift in Sources */,
+				BAFFF27E228045C2008C95DC /* LiveViewController+DebugUI.swift in Sources */,
+				BAFFF2B7228045C2008C95DC /* PlaygroundPageSupport.swift in Sources */,
+				BAFFF2ED228045C2008C95DC /* PixelLocation.swift in Sources */,
+				BAFFF2F9228045C2008C95DC /* PortModeSwitcherView.swift in Sources */,
+				BAFFF2CF228045C2008C95DC /* DebugUIPart.swift in Sources */,
+				BAFFF215228045C2008C95DC /* PlateGridViewLayout+SingleHorizontalPairLayout.swift in Sources */,
+				BAFFF299228045C2008C95DC /* PlateGridViewLayout+DefaultLayout.swift in Sources */,
+				BAFFF23F228045C2008C95DC /* DrawCommand.swift in Sources */,
+				BAFFF22D228045C2008C95DC /* ReplyOperation.swift in Sources */,
+				BAFFF308228045C2008C95DC /* Comparable+clamped.swift in Sources */,
+				BAFFF2DB228045C2008C95DC /* PlateCollectionViewMask.swift in Sources */,
+				BAFFF224228045C2008C95DC /* MockLiveViewProxy.swift in Sources */,
+				BAFFF332228045C2008C95DC /* RoundedButton.swift in Sources */,
+				BAFFF2C6228045C2008C95DC /* PlateCollectionViewLayout.swift in Sources */,
+				BAFFF26F228045C2008C95DC /* PlateGridViewLayout+SingleLayout.swift in Sources */,
+				BAFFF28D228045C2008C95DC /* PlateTableViewCell.swift in Sources */,
+				BAFFF2BD228045C2008C95DC /* PixelSize.swift in Sources */,
+				BAFFF260228045C2008C95DC /* ImageName.swift in Sources */,
+				BAFFF269228045C2008C95DC /* RobotOutputMethods.swift in Sources */,
+				BAFFF323228045C2008C95DC /* DrawCommand+PlaygroundValue.swift in Sources */,
+				BAFFF251228045C2008C95DC /* PortType.swift in Sources */,
+				BAFFF338228045C2008C95DC /* UIViewController+Storyboards.swift in Sources */,
+				BAFFF2E7228045C2008C95DC /* EV3CommunicationLayer.swift in Sources */,
+				BAFFF29F228045C2008C95DC /* PlatesViewController+PlaygroundLiveViewMessageHandler.swift in Sources */,
+				BAFFF2B1228045C2008C95DC /* Command.swift in Sources */,
+				BAFFF266228045C2008C95DC /* BytecodeEncodable+PlaygroundValue.swift in Sources */,
+				BAFFF24E228045C2008C95DC /* WriteCommand.swift in Sources */,
+				BAFFF245228045C2008C95DC /* UICollectionViewLayoutAttributes+BrickGeometry.swift in Sources */,
+				BAFFF34D228045C2008C95DC /* PortDataGraph.swift in Sources */,
+				BAFFF2C9228045C2008C95DC /* SoundCommand+PlaygroundValue.swift in Sources */,
+				BAFFF2A8228045C2008C95DC /* PortView.swift in Sources */,
+				BAFFF203228045C2008C95DC /* InputDeviceCommand+PlaygroundValue.swift in Sources */,
+				BAFFF314228045C2008C95DC /* BrickLightColor.swift in Sources */,
+				BAFFF284228045C2008C95DC /* PlatesViewController+CommunicationLayerDelegate.swift in Sources */,
+				BAFFF209228045C2008C95DC /* PlateGridViewCell.swift in Sources */,
+				BAFFF2EA228045C2008C95DC /* RobotInputMethods.swift in Sources */,
+				BAFFF20C228045C2008C95DC /* Random.swift in Sources */,
+				BAFFF27B228045C2008C95DC /* PlatesViewController+BrickActionsViewControllerDelegate.swift in Sources */,
+				BAFFF33E228045C2008C95DC /* BrickGeometry.swift in Sources */,
+				BAFFF2F0228045C2008C95DC /* MotorType.swift in Sources */,
+				BAFFF2AB228045C2008C95DC /* ConnectionOverviewViewController.swift in Sources */,
+				BAFFF248228045C2008C95DC /* ConnectionDataLogger.swift in Sources */,
+				BAFFF25D228045C2008C95DC /* PortValueLabel.swift in Sources */,
+				BAFFF2D5228045C2008C95DC /* Robot+ProxyDelegate.swift in Sources */,
+				BAFFF341228045C2008C95DC /* ReplyOperationReply.swift in Sources */,
+				BAFFF2DE228045C2008C95DC /* RobotError.swift in Sources */,
+				BAFFF2F6228045C2008C95DC /* PlateTableViewCellGraphLinesView.swift in Sources */,
+				BAFFF21B228045C2008C95DC /* LiveViewController.swift in Sources */,
+				BAFFF26C228045C2008C95DC /* DebugUIPortView.swift in Sources */,
+				BAFFF359228045C2008C95DC /* PlateGridViewLayout+SingleVerticalPairLayout.swift in Sources */,
+				BAFFF239228045C2008C95DC /* SoundFile.swift in Sources */,
+				BAFFF296228045C2008C95DC /* PortsView.swift in Sources */,
+				BAFFF254228045C2008C95DC /* PortMode.swift in Sources */,
+				BAFFF233228045C2008C95DC /* PlatesViewController+DataSource.swift in Sources */,
+				BAFFF230228045C2008C95DC /* LiveViewController+SupportingContent.swift in Sources */,
+				BAFFF29C228045C2008C95DC /* Operation+PlaygroundValue.swift in Sources */,
+				BAFFF212228045C2008C95DC /* PlateConnection.swift in Sources */,
+				BAFFF320228045C2008C95DC /* BrickLightMode.swift in Sources */,
+				BAFFF329228045C2008C95DC /* ReplyOperationReply+PlaygroundValue.swift in Sources */,
+				BAFFF2BA228045C2008C95DC /* CommandManager.swift in Sources */,
+				BAFFF23C228045C2008C95DC /* BlockCondition.swift in Sources */,
+				BAFFF2C0228045C2008C95DC /* PlatesViewController.swift in Sources */,
+				BAFFF2E4228045C2008C95DC /* Note.swift in Sources */,
+				BAFFF326228045C2008C95DC /* InputDeviceCommand.swift in Sources */,
+				BAFFF2D2228045C2008C95DC /* PlateGridViewLayout+GridLines.swift in Sources */,
+				BAFFF34A228045C2008C95DC /* ConnectionTypeByteCodes.swift in Sources */,
+				BAFFF2FF228045C2008C95DC /* GridLineView.swift in Sources */,
+				BAFFF35F228045C2008C95DC /* RobotDisplayMethods.swift in Sources */,
+				BAFFF293228045C2008C95DC /* PlaygroundValueAccessor.swift in Sources */,
+				BAFFF278228045C2008C95DC /* GridLine.swift in Sources */,
+				BAFFF281228045C2008C95DC /* PlateTableViewLayout.swift in Sources */,
+				BAFFF344228045C2008C95DC /* Robot.swift in Sources */,
+				BAFFF2A5228045C2008C95DC /* UserCodeState.swift in Sources */,
+				BAFFF21E228045C2008C95DC /* LiveViewMessageKey.swift in Sources */,
+				BAFFF31A228045C2008C95DC /* CommandType.swift in Sources */,
+				BAFFF287228045C2008C95DC /* BrickActionsCell.swift in Sources */,
+				BAFFF221228045C2008C95DC /* LiveViewController+MessageHandler.swift in Sources */,
+				BAFFF227228045C2008C95DC /* Logging.swift in Sources */,
+				BAFFF2D8228045C2008C95DC /* UIColor+Lego.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -269,7 +993,126 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BAFFF264228045C2008C95DC /* PortData.swift in Sources */,
+				BAFFF1FE228045C2008C95DC /* BlockCondition+PlaygroundValue.swift in Sources */,
+				BAFFF30C228045C2008C95DC /* VariableWidthData.swift in Sources */,
+				BAFFF31E228045C2008C95DC /* ReplyOperation+Reading.swift in Sources */,
+				BAFFF25B228045C2008C95DC /* ReplyOperation+Parameters.swift in Sources */,
+				BAFFF258228045C2008C95DC /* OutputPort.swift in Sources */,
+				BAFFF2A3228045C2008C95DC /* SoundCommand.swift in Sources */,
+				BAFFF306228045C2008C95DC /* ConnectionInstructionsViewController.swift in Sources */,
+				BAFFF351228045C2008C95DC /* Operation.swift in Sources */,
+				BAFFF210228045C2008C95DC /* ParameterCommand.swift in Sources */,
+				BAFFF24C228045C2008C95DC /* Icon.swift in Sources */,
+				BAFFF318228045C2008C95DC /* PlateGridViewLayout.swift in Sources */,
+				BAFFF22B228045C2008C95DC /* RobotWaitForMethods.swift in Sources */,
+				BAFFF2C4228045C2008C95DC /* ConnectionActionsViewController.swift in Sources */,
+				BAFFF2B5228045C2008C95DC /* ConnectionViewController.swift in Sources */,
+				BAFFF201228045C2008C95DC /* DisplayFont.swift in Sources */,
+				BAFFF291228045C2008C95DC /* PlatesViewController+PortModeSwitcherViewDelegate.swift in Sources */,
+				BAFFF330228045C2008C95DC /* GraphTimeLabel.swift in Sources */,
+				BAFFF243228045C2008C95DC /* PlateGridViewLayout+EmptyLayout.swift in Sources */,
+				BAFFF2AF228045C2008C95DC /* DebugUIHardwareViewCell.swift in Sources */,
 				BAFFF17C22802F37008C95DC /* HelloWorld.swift in Sources */,
+				BAFFF207228045C2008C95DC /* DebugUIPort.swift in Sources */,
+				BAFFF273228045C2008C95DC /* IconType.swift in Sources */,
+				BAFFF303228045C2008C95DC /* ColorValue.swift in Sources */,
+				BAFFF312228045C2008C95DC /* GridLinesView.swift in Sources */,
+				BAFFF348228045C2008C95DC /* DebugUIHardwareCollectionView.swift in Sources */,
+				BAFFF354228045C2008C95DC /* LiveViewController+CommunicationLayerDelegate.swift in Sources */,
+				BAFFF2CD228045C2008C95DC /* StuddedView.swift in Sources */,
+				BAFFF33C228045C2008C95DC /* SoundStyle.swift in Sources */,
+				BAFFF336228045C2008C95DC /* InputPort.swift in Sources */,
+				BAFFF32D228045C2008C95DC /* RobotAPI.swift in Sources */,
+				BAFFF276228045C2008C95DC /* WriteCommand+PlaygroundValue.swift in Sources */,
+				BAFFF28B228045C2008C95DC /* EV3Communicator.swift in Sources */,
+				BAFFF2FD228045C2008C95DC /* BytecodeEncodable.swift in Sources */,
+				BAFFF30F228045C2008C95DC /* BrickActionsViewController.swift in Sources */,
+				BAFFF2E2228045C2008C95DC /* PlaygroundKeyValueStoreExtension.swift in Sources */,
+				BAFFF237228045C2008C95DC /* Port.swift in Sources */,
+				BAFFF35D228045C2008C95DC /* GridLineType.swift in Sources */,
+				BAFFF2F4228045C2008C95DC /* DisplayColor.swift in Sources */,
+				BAFFF357228045C2008C95DC /* Operation+Parameters.swift in Sources */,
+				BAFFF219228045C2008C95DC /* ReplyOperation+PlaygroundValue.swift in Sources */,
+				BAFFF27F228045C2008C95DC /* LiveViewController+DebugUI.swift in Sources */,
+				BAFFF2B8228045C2008C95DC /* PlaygroundPageSupport.swift in Sources */,
+				BAFFF2EE228045C2008C95DC /* PixelLocation.swift in Sources */,
+				BAFFF2FA228045C2008C95DC /* PortModeSwitcherView.swift in Sources */,
+				BAFFF2D0228045C2008C95DC /* DebugUIPart.swift in Sources */,
+				BAFFF216228045C2008C95DC /* PlateGridViewLayout+SingleHorizontalPairLayout.swift in Sources */,
+				BAFFF29A228045C2008C95DC /* PlateGridViewLayout+DefaultLayout.swift in Sources */,
+				BAFFF240228045C2008C95DC /* DrawCommand.swift in Sources */,
+				BAFFF22E228045C2008C95DC /* ReplyOperation.swift in Sources */,
+				BAFFF309228045C2008C95DC /* Comparable+clamped.swift in Sources */,
+				BAFFF2DC228045C2008C95DC /* PlateCollectionViewMask.swift in Sources */,
+				BAFFF225228045C2008C95DC /* MockLiveViewProxy.swift in Sources */,
+				BAFFF333228045C2008C95DC /* RoundedButton.swift in Sources */,
+				BAFFF2C7228045C2008C95DC /* PlateCollectionViewLayout.swift in Sources */,
+				BAFFF270228045C2008C95DC /* PlateGridViewLayout+SingleLayout.swift in Sources */,
+				BAFFF28E228045C2008C95DC /* PlateTableViewCell.swift in Sources */,
+				BAFFF2BE228045C2008C95DC /* PixelSize.swift in Sources */,
+				BAFFF261228045C2008C95DC /* ImageName.swift in Sources */,
+				BAFFF26A228045C2008C95DC /* RobotOutputMethods.swift in Sources */,
+				BAFFF324228045C2008C95DC /* DrawCommand+PlaygroundValue.swift in Sources */,
+				BAFFF252228045C2008C95DC /* PortType.swift in Sources */,
+				BAFFF339228045C2008C95DC /* UIViewController+Storyboards.swift in Sources */,
+				BAFFF2E8228045C2008C95DC /* EV3CommunicationLayer.swift in Sources */,
+				BAFFF2A0228045C2008C95DC /* PlatesViewController+PlaygroundLiveViewMessageHandler.swift in Sources */,
+				BAFFF2B2228045C2008C95DC /* Command.swift in Sources */,
+				BAFFF267228045C2008C95DC /* BytecodeEncodable+PlaygroundValue.swift in Sources */,
+				BAFFF24F228045C2008C95DC /* WriteCommand.swift in Sources */,
+				BAFFF246228045C2008C95DC /* UICollectionViewLayoutAttributes+BrickGeometry.swift in Sources */,
+				BAFFF34E228045C2008C95DC /* PortDataGraph.swift in Sources */,
+				BAFFF2CA228045C2008C95DC /* SoundCommand+PlaygroundValue.swift in Sources */,
+				BAFFF2A9228045C2008C95DC /* PortView.swift in Sources */,
+				BAFFF204228045C2008C95DC /* InputDeviceCommand+PlaygroundValue.swift in Sources */,
+				BAFFF315228045C2008C95DC /* BrickLightColor.swift in Sources */,
+				BAFFF285228045C2008C95DC /* PlatesViewController+CommunicationLayerDelegate.swift in Sources */,
+				BAFFF20A228045C2008C95DC /* PlateGridViewCell.swift in Sources */,
+				BAFFF2EB228045C2008C95DC /* RobotInputMethods.swift in Sources */,
+				BAFFF20D228045C2008C95DC /* Random.swift in Sources */,
+				BAFFF27C228045C2008C95DC /* PlatesViewController+BrickActionsViewControllerDelegate.swift in Sources */,
+				BAFFF33F228045C2008C95DC /* BrickGeometry.swift in Sources */,
+				BAFFF2F1228045C2008C95DC /* MotorType.swift in Sources */,
+				BAFFF2AC228045C2008C95DC /* ConnectionOverviewViewController.swift in Sources */,
+				BAFFF249228045C2008C95DC /* ConnectionDataLogger.swift in Sources */,
+				BAFFF25E228045C2008C95DC /* PortValueLabel.swift in Sources */,
+				BAFFF2D6228045C2008C95DC /* Robot+ProxyDelegate.swift in Sources */,
+				BAFFF342228045C2008C95DC /* ReplyOperationReply.swift in Sources */,
+				BAFFF2DF228045C2008C95DC /* RobotError.swift in Sources */,
+				BAFFF2F7228045C2008C95DC /* PlateTableViewCellGraphLinesView.swift in Sources */,
+				BAFFF21C228045C2008C95DC /* LiveViewController.swift in Sources */,
+				BAFFF26D228045C2008C95DC /* DebugUIPortView.swift in Sources */,
+				BAFFF35A228045C2008C95DC /* PlateGridViewLayout+SingleVerticalPairLayout.swift in Sources */,
+				BAFFF23A228045C2008C95DC /* SoundFile.swift in Sources */,
+				BAFFF297228045C2008C95DC /* PortsView.swift in Sources */,
+				BAFFF255228045C2008C95DC /* PortMode.swift in Sources */,
+				BAFFF234228045C2008C95DC /* PlatesViewController+DataSource.swift in Sources */,
+				BAFFF231228045C2008C95DC /* LiveViewController+SupportingContent.swift in Sources */,
+				BAFFF29D228045C2008C95DC /* Operation+PlaygroundValue.swift in Sources */,
+				BAFFF213228045C2008C95DC /* PlateConnection.swift in Sources */,
+				BAFFF321228045C2008C95DC /* BrickLightMode.swift in Sources */,
+				BAFFF32A228045C2008C95DC /* ReplyOperationReply+PlaygroundValue.swift in Sources */,
+				BAFFF2BB228045C2008C95DC /* CommandManager.swift in Sources */,
+				BAFFF23D228045C2008C95DC /* BlockCondition.swift in Sources */,
+				BAFFF2C1228045C2008C95DC /* PlatesViewController.swift in Sources */,
+				BAFFF2E5228045C2008C95DC /* Note.swift in Sources */,
+				BAFFF327228045C2008C95DC /* InputDeviceCommand.swift in Sources */,
+				BAFFF2D3228045C2008C95DC /* PlateGridViewLayout+GridLines.swift in Sources */,
+				BAFFF34B228045C2008C95DC /* ConnectionTypeByteCodes.swift in Sources */,
+				BAFFF300228045C2008C95DC /* GridLineView.swift in Sources */,
+				BAFFF360228045C2008C95DC /* RobotDisplayMethods.swift in Sources */,
+				BAFFF294228045C2008C95DC /* PlaygroundValueAccessor.swift in Sources */,
+				BAFFF279228045C2008C95DC /* GridLine.swift in Sources */,
+				BAFFF282228045C2008C95DC /* PlateTableViewLayout.swift in Sources */,
+				BAFFF345228045C2008C95DC /* Robot.swift in Sources */,
+				BAFFF2A6228045C2008C95DC /* UserCodeState.swift in Sources */,
+				BAFFF21F228045C2008C95DC /* LiveViewMessageKey.swift in Sources */,
+				BAFFF31B228045C2008C95DC /* CommandType.swift in Sources */,
+				BAFFF288228045C2008C95DC /* BrickActionsCell.swift in Sources */,
+				BAFFF222228045C2008C95DC /* LiveViewController+MessageHandler.swift in Sources */,
+				BAFFF228228045C2008C95DC /* Logging.swift in Sources */,
+				BAFFF2D9228045C2008C95DC /* UIColor+Lego.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -277,7 +1120,126 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				BAFFF265228045C2008C95DC /* PortData.swift in Sources */,
+				BAFFF1FF228045C2008C95DC /* BlockCondition+PlaygroundValue.swift in Sources */,
+				BAFFF30D228045C2008C95DC /* VariableWidthData.swift in Sources */,
+				BAFFF31F228045C2008C95DC /* ReplyOperation+Reading.swift in Sources */,
+				BAFFF25C228045C2008C95DC /* ReplyOperation+Parameters.swift in Sources */,
+				BAFFF259228045C2008C95DC /* OutputPort.swift in Sources */,
+				BAFFF2A4228045C2008C95DC /* SoundCommand.swift in Sources */,
+				BAFFF307228045C2008C95DC /* ConnectionInstructionsViewController.swift in Sources */,
+				BAFFF352228045C2008C95DC /* Operation.swift in Sources */,
+				BAFFF211228045C2008C95DC /* ParameterCommand.swift in Sources */,
+				BAFFF24D228045C2008C95DC /* Icon.swift in Sources */,
+				BAFFF319228045C2008C95DC /* PlateGridViewLayout.swift in Sources */,
+				BAFFF22C228045C2008C95DC /* RobotWaitForMethods.swift in Sources */,
+				BAFFF2C5228045C2008C95DC /* ConnectionActionsViewController.swift in Sources */,
+				BAFFF2B6228045C2008C95DC /* ConnectionViewController.swift in Sources */,
+				BAFFF202228045C2008C95DC /* DisplayFont.swift in Sources */,
+				BAFFF292228045C2008C95DC /* PlatesViewController+PortModeSwitcherViewDelegate.swift in Sources */,
+				BAFFF331228045C2008C95DC /* GraphTimeLabel.swift in Sources */,
+				BAFFF244228045C2008C95DC /* PlateGridViewLayout+EmptyLayout.swift in Sources */,
+				BAFFF2B0228045C2008C95DC /* DebugUIHardwareViewCell.swift in Sources */,
 				BAFFF17D22802F37008C95DC /* HelloWorld.swift in Sources */,
+				BAFFF208228045C2008C95DC /* DebugUIPort.swift in Sources */,
+				BAFFF274228045C2008C95DC /* IconType.swift in Sources */,
+				BAFFF304228045C2008C95DC /* ColorValue.swift in Sources */,
+				BAFFF313228045C2008C95DC /* GridLinesView.swift in Sources */,
+				BAFFF349228045C2008C95DC /* DebugUIHardwareCollectionView.swift in Sources */,
+				BAFFF355228045C2008C95DC /* LiveViewController+CommunicationLayerDelegate.swift in Sources */,
+				BAFFF2CE228045C2008C95DC /* StuddedView.swift in Sources */,
+				BAFFF33D228045C2008C95DC /* SoundStyle.swift in Sources */,
+				BAFFF337228045C2008C95DC /* InputPort.swift in Sources */,
+				BAFFF32E228045C2008C95DC /* RobotAPI.swift in Sources */,
+				BAFFF277228045C2008C95DC /* WriteCommand+PlaygroundValue.swift in Sources */,
+				BAFFF28C228045C2008C95DC /* EV3Communicator.swift in Sources */,
+				BAFFF2FE228045C2008C95DC /* BytecodeEncodable.swift in Sources */,
+				BAFFF310228045C2008C95DC /* BrickActionsViewController.swift in Sources */,
+				BAFFF2E3228045C2008C95DC /* PlaygroundKeyValueStoreExtension.swift in Sources */,
+				BAFFF238228045C2008C95DC /* Port.swift in Sources */,
+				BAFFF35E228045C2008C95DC /* GridLineType.swift in Sources */,
+				BAFFF2F5228045C2008C95DC /* DisplayColor.swift in Sources */,
+				BAFFF358228045C2008C95DC /* Operation+Parameters.swift in Sources */,
+				BAFFF21A228045C2008C95DC /* ReplyOperation+PlaygroundValue.swift in Sources */,
+				BAFFF280228045C2008C95DC /* LiveViewController+DebugUI.swift in Sources */,
+				BAFFF2B9228045C2008C95DC /* PlaygroundPageSupport.swift in Sources */,
+				BAFFF2EF228045C2008C95DC /* PixelLocation.swift in Sources */,
+				BAFFF2FB228045C2008C95DC /* PortModeSwitcherView.swift in Sources */,
+				BAFFF2D1228045C2008C95DC /* DebugUIPart.swift in Sources */,
+				BAFFF217228045C2008C95DC /* PlateGridViewLayout+SingleHorizontalPairLayout.swift in Sources */,
+				BAFFF29B228045C2008C95DC /* PlateGridViewLayout+DefaultLayout.swift in Sources */,
+				BAFFF241228045C2008C95DC /* DrawCommand.swift in Sources */,
+				BAFFF22F228045C2008C95DC /* ReplyOperation.swift in Sources */,
+				BAFFF30A228045C2008C95DC /* Comparable+clamped.swift in Sources */,
+				BAFFF2DD228045C2008C95DC /* PlateCollectionViewMask.swift in Sources */,
+				BAFFF226228045C2008C95DC /* MockLiveViewProxy.swift in Sources */,
+				BAFFF334228045C2008C95DC /* RoundedButton.swift in Sources */,
+				BAFFF2C8228045C2008C95DC /* PlateCollectionViewLayout.swift in Sources */,
+				BAFFF271228045C2008C95DC /* PlateGridViewLayout+SingleLayout.swift in Sources */,
+				BAFFF28F228045C2008C95DC /* PlateTableViewCell.swift in Sources */,
+				BAFFF2BF228045C2008C95DC /* PixelSize.swift in Sources */,
+				BAFFF262228045C2008C95DC /* ImageName.swift in Sources */,
+				BAFFF26B228045C2008C95DC /* RobotOutputMethods.swift in Sources */,
+				BAFFF325228045C2008C95DC /* DrawCommand+PlaygroundValue.swift in Sources */,
+				BAFFF253228045C2008C95DC /* PortType.swift in Sources */,
+				BAFFF33A228045C2008C95DC /* UIViewController+Storyboards.swift in Sources */,
+				BAFFF2E9228045C2008C95DC /* EV3CommunicationLayer.swift in Sources */,
+				BAFFF2A1228045C2008C95DC /* PlatesViewController+PlaygroundLiveViewMessageHandler.swift in Sources */,
+				BAFFF2B3228045C2008C95DC /* Command.swift in Sources */,
+				BAFFF268228045C2008C95DC /* BytecodeEncodable+PlaygroundValue.swift in Sources */,
+				BAFFF250228045C2008C95DC /* WriteCommand.swift in Sources */,
+				BAFFF247228045C2008C95DC /* UICollectionViewLayoutAttributes+BrickGeometry.swift in Sources */,
+				BAFFF34F228045C2008C95DC /* PortDataGraph.swift in Sources */,
+				BAFFF2CB228045C2008C95DC /* SoundCommand+PlaygroundValue.swift in Sources */,
+				BAFFF2AA228045C2008C95DC /* PortView.swift in Sources */,
+				BAFFF205228045C2008C95DC /* InputDeviceCommand+PlaygroundValue.swift in Sources */,
+				BAFFF316228045C2008C95DC /* BrickLightColor.swift in Sources */,
+				BAFFF286228045C2008C95DC /* PlatesViewController+CommunicationLayerDelegate.swift in Sources */,
+				BAFFF20B228045C2008C95DC /* PlateGridViewCell.swift in Sources */,
+				BAFFF2EC228045C2008C95DC /* RobotInputMethods.swift in Sources */,
+				BAFFF20E228045C2008C95DC /* Random.swift in Sources */,
+				BAFFF27D228045C2008C95DC /* PlatesViewController+BrickActionsViewControllerDelegate.swift in Sources */,
+				BAFFF340228045C2008C95DC /* BrickGeometry.swift in Sources */,
+				BAFFF2F2228045C2008C95DC /* MotorType.swift in Sources */,
+				BAFFF2AD228045C2008C95DC /* ConnectionOverviewViewController.swift in Sources */,
+				BAFFF24A228045C2008C95DC /* ConnectionDataLogger.swift in Sources */,
+				BAFFF25F228045C2008C95DC /* PortValueLabel.swift in Sources */,
+				BAFFF2D7228045C2008C95DC /* Robot+ProxyDelegate.swift in Sources */,
+				BAFFF343228045C2008C95DC /* ReplyOperationReply.swift in Sources */,
+				BAFFF2E0228045C2008C95DC /* RobotError.swift in Sources */,
+				BAFFF2F8228045C2008C95DC /* PlateTableViewCellGraphLinesView.swift in Sources */,
+				BAFFF21D228045C2008C95DC /* LiveViewController.swift in Sources */,
+				BAFFF26E228045C2008C95DC /* DebugUIPortView.swift in Sources */,
+				BAFFF35B228045C2008C95DC /* PlateGridViewLayout+SingleVerticalPairLayout.swift in Sources */,
+				BAFFF23B228045C2008C95DC /* SoundFile.swift in Sources */,
+				BAFFF298228045C2008C95DC /* PortsView.swift in Sources */,
+				BAFFF256228045C2008C95DC /* PortMode.swift in Sources */,
+				BAFFF235228045C2008C95DC /* PlatesViewController+DataSource.swift in Sources */,
+				BAFFF232228045C2008C95DC /* LiveViewController+SupportingContent.swift in Sources */,
+				BAFFF29E228045C2008C95DC /* Operation+PlaygroundValue.swift in Sources */,
+				BAFFF214228045C2008C95DC /* PlateConnection.swift in Sources */,
+				BAFFF322228045C2008C95DC /* BrickLightMode.swift in Sources */,
+				BAFFF32B228045C2008C95DC /* ReplyOperationReply+PlaygroundValue.swift in Sources */,
+				BAFFF2BC228045C2008C95DC /* CommandManager.swift in Sources */,
+				BAFFF23E228045C2008C95DC /* BlockCondition.swift in Sources */,
+				BAFFF2C2228045C2008C95DC /* PlatesViewController.swift in Sources */,
+				BAFFF2E6228045C2008C95DC /* Note.swift in Sources */,
+				BAFFF328228045C2008C95DC /* InputDeviceCommand.swift in Sources */,
+				BAFFF2D4228045C2008C95DC /* PlateGridViewLayout+GridLines.swift in Sources */,
+				BAFFF34C228045C2008C95DC /* ConnectionTypeByteCodes.swift in Sources */,
+				BAFFF301228045C2008C95DC /* GridLineView.swift in Sources */,
+				BAFFF361228045C2008C95DC /* RobotDisplayMethods.swift in Sources */,
+				BAFFF295228045C2008C95DC /* PlaygroundValueAccessor.swift in Sources */,
+				BAFFF27A228045C2008C95DC /* GridLine.swift in Sources */,
+				BAFFF283228045C2008C95DC /* PlateTableViewLayout.swift in Sources */,
+				BAFFF346228045C2008C95DC /* Robot.swift in Sources */,
+				BAFFF2A7228045C2008C95DC /* UserCodeState.swift in Sources */,
+				BAFFF220228045C2008C95DC /* LiveViewMessageKey.swift in Sources */,
+				BAFFF31C228045C2008C95DC /* CommandType.swift in Sources */,
+				BAFFF289228045C2008C95DC /* BrickActionsCell.swift in Sources */,
+				BAFFF223228045C2008C95DC /* LiveViewController+MessageHandler.swift in Sources */,
+				BAFFF229228045C2008C95DC /* Logging.swift in Sources */,
+				BAFFF2DA228045C2008C95DC /* UIColor+Lego.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -348,6 +1310,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = "$(inherited) ";
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -431,6 +1394,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = "$(inherited) ";
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -509,6 +1473,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = "$(inherited) ";
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
 				GCC_NO_COMMON_BLOCKS = YES;
@@ -593,6 +1558,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = "$(inherited) ";
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
 				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
@@ -671,6 +1637,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
 				ENABLE_TESTABILITY = YES;
+				FRAMEWORK_SEARCH_PATHS = "$(inherited) ";
 				FRAMEWORK_VERSION = A;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_DYNAMIC_NO_PIC = NO;
@@ -754,6 +1721,7 @@
 				DYLIB_INSTALL_NAME_BASE = "@rpath";
 				ENABLE_NS_ASSERTIONS = NO;
 				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				FRAMEWORK_SEARCH_PATHS = "$(inherited) ";
 				FRAMEWORK_VERSION = A;
 				GCC_C_LANGUAGE_STANDARD = gnu11;
 				GCC_NO_COMMON_BLOCKS = YES;
