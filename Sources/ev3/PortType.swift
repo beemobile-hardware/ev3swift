@@ -72,7 +72,10 @@ extension PortType {
             return NSLocalizedString("Missing Sensor", comment: "The Port Type long text for the Missing Sensor")
         }
     }
+    //PIOTR UI Stuff
+    //PIOTR enum GridPlateStyle is defined in PlateGridViewLayout
 
+    /*
     func image(for style: GridPlateStyle) -> UIImage {
         let imageSuffix = style == .large ? "_large" : "_small"
         let imageName: String
@@ -106,5 +109,5 @@ extension PortType {
         return UIImage(named: imageName)!
     }
 
-
+*/
 }

@@ -8,7 +8,7 @@ public class PlaygroundPageSupport {
         let robot = Robot()
         
         robot.proxy = proxy
-        proxy.delegate = robot
+        //PIOTR proxy.delegate = robot
         
         robot.storeDisplay()
         robot.resetAll()

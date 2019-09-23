@@ -1,7 +1,9 @@
 import Foundation
 import PlaygroundSupport
 
-extension Robot: PlaygroundRemoteLiveViewProxyDelegate, MockRemoteLiveViewProxyDelegate {
+extension Robot:
+//PIOTR PlaygroundRemoteLiveViewProxyDelegate,
+MockRemoteLiveViewProxyDelegate {
     // MARK: - PlaygroundRemoteLiveViewProxyDelegate
     func remoteLiveViewProxyReceived(message: PlaygroundValue) {
         guard let liveViewMessage = Message(value: message) else { return }
